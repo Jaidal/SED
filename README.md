@@ -11,7 +11,7 @@ This repository was created in the goal of furthering work on the anglicization 
 If you wish to contribute, just fork this repository, make the changes locally and then create a push request.
 Any changes will be discussed with the community on the forums before being merged into the main mod.
 
-Speak Enlgish Dammit! Installation:
+Speak English Dammit! Installation:
 
 1. Important: Delete your SpeakEnglishDammit folder if you have one
 2. Extract the SpeakEnglishDammit folder and the sed.mod file to your mod-folder (Crusader Kings II\mod)
