@@ -1,0 +1,108 @@
+frisian;Frisian;Frisian;Frisian;;Frisian;;;;;;;;;x
+saxon;Saxon;Saxon;Saxon;;Saxon;;;;;;;;;x
+cornish;Cornish;Cornish;Cornish;;Cornish;;;;;;;;;x
+cumbric;Cumbric;Cumbric;Cumbric;;Cumbric;;;;;;;;;x
+langobardisch;Langobardish;Langobardish;Langobardish;;Langobardish;;;;;;;;;x
+tsuudi;Estonian;Estonian;Estonian;;Estonian;;;;;;;;;x
+livonian;Livonian;Livonian;Livonian;;Livonian;;;;;;;;;x
+bosnian;Bosnian;Bosnian;Bosnian;;Bosnian;;;;;;;;;x
+arberian;Albanian;Albanian;Albanian;;Albanian;;;;;;;;;x
+serbian;Serbian;Serbian;Serbian;;Serbian;;;;;;;;;x
+sicilian;Sicilian;Sicilian;Sicilian;;Sicilian;;;;;;;;;x
+sicilian_greek;Sicilian Greek;Sicilian Greek;Sicilian Greek;;Sicilian Greek;;;;;;;;;x
+sicilian_arabic;Sicilian Arabic;Sicilian Arabic;Sicilian Arabic;;Sicilian Arabic;;;;;;;;;x
+pommeranian;Wendish;Wendish;Wendish;;Wendish;;;;;;;;;x
+ashkenazi;Ashkenazi;Ashkenazi;Ashkenazi;;Ashkenazi;;;;;;;;;x
+crusader_culture;Levantine;Levantine;Levantine;;Levantine;;;;;;;;;x
+sephardic;Sephardi;Sephardi;Sephardi;;Sephardi;;;;;;;;;x
+irish;Gaelic;Gaelic;Gaelic;;Gaelic;;;;;;;;;x
+scottish;Scots;Scots;Scots;;Scots;;;;;;;;;x
+anglonorse;Anglo Norse;Anglo Norse;Anglo Norse;;Anglo Norse;;;;;;;;;x
+norsegaelic;Norse Gaelic;Norse Gaelic;Norse Gaelic;;Norse Gaelic;;;;;;;;;x
+judaic;Judaic;Judaic;Judaic;;Judaic;;;;;;;;;x
+welsh;Welsh;Welsh;Welsh;;Welsh;;;;;;;;;x
+norwegian;Norwegian;Norwegian;Norwegian;;Norwegian;;;;;;;;;x
+danish;Danish;Danish;Danish;;Danish;;;;;;;;;x
+swedish;Swedish;Swedish;Swedish;;Swedish;;;;;;;;;x
+gothic;Gothic;Gothic;Gothic;;Gothic;;;;;;;;;x
+dutch;Dutch;Dutch;Dutch;;Dutch;;;;;;;;;x
+pecheneg;Pecheneg;Pecheneg;Pecheneg;;Pecheneg;;;;;;;;;x
+cuman;Kipchak;Kipchak;Kipchak;;Kipchak;;;;;;;;;x
+hungarian;Hungarian;Hungarian;Hungarian;;Hungarian;;;;;;;;;x
+karantanci;Carinthian;Carinthian;Carinthian;;Carinthian;;;;;;;;;x
+sardinian;Sardinian;Sardinian;Sardinian;;Sardinian;;;;;;;;;x
+moravian;Moravian;Moravian;Moravian;;Moravian;;;;;;;;;x
+frankish;Frankish;Frankish;Frankish;;Frankish;;;;;;;;;x
+norman;Norman;Norman;Norman;;Norman;;;;;;;;;x
+basque;Basque;Basque;Basque;;Basque;;;;;;;;;x
+castillan;Castilian;Castilian;Castilian;;Castilian;;;;;;;;;x
+catalan;Catalan;Catalan;Catalan;;Catalan;;;;;;;;;x
+portuguese;Portuguese;Portuguese;Portuguese;;Portuguese;;;;;;;;;x
+breton;Breton;Breton;Breton;;Breton;;;;;;;;;x
+german;German;German;German;;German;;;;;;;;;x
+polish;Polish;Polish;Polish;;Polish;;;;;;;;;x
+bohemian;Bohemian;Bohemian;Bohemian;;Bohemian;;;;;;;;;x
+croatian;Croatian;Croatian;Croatian;;Croatian;;;;;;;;;x
+bulgarian;Bulgarian;Bulgarian;Bulgarian;;Bulgarian;;;;;;;;;x
+prussian;Prussian;Prussian;Prussian;;Prussian;;;;;;;;;x
+lithuanian;Lithuanian;Lithuanian;Lithuanian;;Lithuanian;;;;;;;;;x
+finnish;Finnish;Finnish;Finnish;;Finnish;;;;;;;;;x
+lappish;Sami;Sami;Sami;;Sami;;;;;;;;;x
+russian;Russian;Russian;Russian;;Russian;;;;;;;;;x
+greek;Greek;Greek;Greek;;Greek;;;;;;;;;x
+armenian;Armenian;Armenian;Armenian;;Armenian;;;;;;;;;x
+somali;Somali;Somali;Somali;;Somali;;;;;;;;;x
+andalusian_arabic;Andalusian;Andalusian;Andalusian;;Andalusian;;;;;;;;;x
+corsican;Corsican;Corsican;Corsican;;Corsican;;;;;;;;;x
+venetian;Venetian;Venetian;Venetian;;Venetian;;;;;;;;;x
+tuscan;Tuscan;Tuscan;Tuscan;;Tuscan;;;;;;;;;x
+ligurian;Ligurian;Ligurian;Ligurian;;Ligurian;;;;;;;;;x
+arpitan;Arpitan;Arpitan;Arpitan;;Arpitan;;;;;;;;;x
+italian;Lombard;Lombard;Lombard;;Lombard;;;;;;;;;x
+central_italian;Central Italian;Central Italian;Central Italian;;Central Italian;;;;;;;;;x
+southern_italian;Southern Italian;Southern Italian;Southern Italian;;Southern Italian;;;;;;;;;x
+neapolitan;Neapolitan;Neapolitan;Neapolitan;;Neapolitan;;;;;;;;;x
+berber;Berber;Berber;Berber;;Berber;;;;;;;;;x
+tuareg;Tuareg;Tuareg;Tuareg;;Tuareg;;;;;;;;;x
+gascon;Gascon;Gascon;Gascon;;Gascon;;;;;;;;;x
+icelandic;Icelandic;Icelandic;Icelandic;;Icelandic;;;;;;;;;x
+bedouin_arabic;Bedouin Arabic;Bedouin Arabic;Bedouin Arabic;;Bedouin Arabic;;;;;;;;;x
+egyptian_arabic;Misri Arabic;Misri Arabic;Misri Arabic;;Misri Arabic;;;;;;;;;x
+levantine_arabic;Mashriqi Arabic;Mashriqi Arabic;Mashriqi Arabic;;Mashriqi Arabic;;;;;;;;;x
+turkish;Turkish;Turkish;Turkish;;Turkish;;;;;;;;;x
+komi;Komi;Komi;Komi;;Komi;;;;;;;;;x
+mongol;Mongol;Mongol;Mongol;;Mongol;;;;;;;;;x
+kurdish;Kurdish;Kurdish;Kurdish;;Kurdish;;;;;;;;;x
+ethiopian;Ethiopian;Ethiopian;Ethiopian;;Ethiopian;;;;;;;;;x
+georgian;Georgian;Georgian;Georgian;;Georgian;;;;;;;;;x
+alan;Alan;Alan;Alan;;Alan;;;;;;;;;x
+aragonese;Aragonese;Aragonese;Aragonese;;Aragonese;;;;;;;;;x
+leonese;Leonese;Leonese;Leonese;;Leonese;;;;;;;;;x
+obotrite;Obotrite;Obotrite;Obotrite;;Obotrite;;;;;;;;;x
+lutici;Liutician;Liutician;Liutician;;Liutician;;;;;;;;;x
+galician;Galician;Galician;Galician;;Galician;;;;;;;;;x
+maghreb_arabic;Maghreb Arabic;Maghreb Arabic;Maghreb Arabic;;Maghreb Arabic;;;;;;;;;x
+samoyed;Bjarmian;Bjarmian;Bjarmian;;Bjarmian;;;;;;;;;x
+########################################;;;;;;;;;;;;;;
+#Groups;;;;;;;;;;;;;;
+########################################;;;;;;;;;;;;;;
+#north_germanic;Norrœnt;Norrœnt;Norrœnt;;Norrœnt;;;;;;;;;x
+italian_group;Italian;Italian;Italian;;Italian;;;;;;;;;x
+north_african;Berber;Berbère;Berber;;Bereber;;;;;;;;;x
+iberian;Ibero-Romance;Ibero-Romance;Ibero-Romance;;Ibero-Romance;;;;;;;;;x
+central_slavic;Central Slavic;Central Slavic;Central Slavic;;Central Slavic;;;;;;;;;x
+#italian_group;Italian;Italiano;Italiano;;Italiano;;;;;;;;;x
+########################################;;;;;;;;;;;;;;
+sanhaja;Sanhája;Sanhája;Sanhája;;Sanhája;;;;;;;;;x
+masmuda;Masmúda;Masmúda;Masmúda;;Masmúda;;;;;;;;;x
+zanata;Zanáta;Zanáta;Zanáta;;Zanáta;;;;;;;;;x
+soninke;Soninke;Soninke;Soninke;;Soninke;;;;;;;;;x
+wolof;Wolof;Wolof;Wolof;;Wolof;;;;;;;;;x
+nubian;Nubian;Nubian;Nubian;;Nubian;;;;;;;;;x
+songhai;Songhai;Songhai;Songhai;;Songhai;;;;;;;;;x
+tagelmust;Veiled Sanhája;Veiled Sanhája;Veiled Sanhája;;Veiled Sanhája;;;;;;;;;x
+hausa;Hausa;Hausa;Hausa;;Hausa;;;;;;;;;x
+kanuri;Kanuri;Kanuri;Kanuri;;Kanuri;;;;;;;;;x
+zaghawa;Zaghawa;Zaghawa;Zaghawa;;Zaghawa;;;;;;;;;x
+beja;Beja;Beja;Beja;;Beja;;;;;;;;;x
+daju;Daju;Daju;Daju;;Daju;;;;;;;;;x
