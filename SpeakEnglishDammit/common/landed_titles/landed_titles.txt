@@ -10423,15 +10423,7 @@ e_scandinavia = {
 	capital = 266 # Sjaelland
 	culture = danish
 
-        danish = "Norðurríki"
-        norwegian = "Norðurríki"
-	swedish = "Norðurríki"
-	anglonorse = "Norðurríki"
-	gothic = "Norðurríki"
-        norse = "Norðurríki"
-        norsegaelic = "Norðurríki"
-        icelandic = "Norðurríki"
-        greek = "Thule"
+    greek = "Thule"
 	
 	catholic = 100 # Crusade target weight
                              	
@@ -10445,15 +10437,6 @@ e_scandinavia = {
 
 		catholic = 100 # Crusade target weight
                 norse_pagan_reformed = 400 # Crusade target weight
-
-                saxon = "Denemearc"
-		norwegian = "Danmörk"
-		swedish = "Danmörk"
-		anglonorse = "Danmörk"
-		gothic = "Danmörk"
-                norse = "Danmörk"
-                norsegaelic = "Danmörk"
-                icelandic = "Danmörk"
            		
 		d_skane = {
 			color={ 210 2 2 }
@@ -11073,7 +11056,7 @@ e_scandinavia = {
 		}
             }
         }
-        	k_sweden = {
+    k_sweden = {
 		color={ 62 122 189 }
 		color2={ 255 255 0 }
 		
@@ -11711,27 +11694,10 @@ e_scandinavia = {
 	norse_pagan_reformed = 150 # Crusade target weight
 
 
-                                danish = "Østærland"
-                                swedish = "Österland"
-                                anglonorse = "Finlandi"
-                                gothic = "Österland"
-                                norwegian = "Finlandi"
-                                norse = "Finlandi"
-			        saxon = "Cwenaland"
-			        mordvin = "Suomi"
-			        karelian = "Suomi"
-			        samoyed = "Suomi"
-			        vepsian = "Suomi"
-			        mari = "Suomi"
-			        ingrian = "Suomi"	
-                                lappish = "Suomi"
-                                komi = "Suomi"
-                                finnish = "Suomi"
-		                tsuudi = "Suomi"
-                                livonian = "Suomi"
-                                prussian = "Suomi"
-                                lettigallish = "Suomi"                        
-                                lithuanian = "Suomi"
+                    danish = "Österland"
+                    swedish = "Österland"
+                    gothic = "Österland"
+			        saxon = "Cwenland"
 		
 		d_finland = {
 			color={ 4 86 184 }
@@ -13134,14 +13100,14 @@ k_pomerania = {
 	norse_pagan_reformed = 200 # Crusade target weight
 	baltic_pagan_reformed = 150 # Crusade target weight
 	
-        saxon = "Winedaland"		
+        saxon = "Vindarland"		
         danish = "Vindarland"
         swedish = "Vindarland"
         norse = "Vindarland"
         icelandic = "Vindarland"
-	norwegian = "Vindarland"
-	gothic = "Vindarland"
-	norsegaelic = "Vindarland"
+		norwegian = "Vindarland"
+		gothic = "Vindarland"
+		norsegaelic = "Vindarland"
         anglonorse = "Vindarland" 
 
 	d_mecklemburg = {
@@ -14419,15 +14385,6 @@ e_poland = {
 		catholic = 100 # Crusade target weight
 		slavic_pagan_reformed = 800 # Crusade target weight
 		baltic_pagan_reformed = 100 # Crusade target weight
-		
-                danish = "Pulinaland"
-                swedish = "Pulinaland"
-                norse = "Pulinaland"
-                icelandic = "Pulinaland"
-	        norwegian = "Pulinaland"
-	        gothic = "Pulinaland"
-	        norsegaelic = "Pulinaland"
-                anglonorse = "Pulinaland" 
 		
 		d_mazovia = {
 			color={ 147 21 39 }
@@ -16425,21 +16382,6 @@ k_terra = {
 	slavic_pagan_reformed = 150 # Crusade target weight
 	baltic_pagan_reformed = 500 # Crusade target weight
 	finnish_pagan_reformed = 400
-
-			mordvin = "Liivinmaa"
-			karelian = "Liivinmaa"
-			samoyed = "Liivinmaa"
-			vepsian = "Liivimaa"
-			mari = "Liivinmaa"
-			ingrian = "Liivimaa"	
-                        lappish = "Liivinmaa"
-                        komi = "Liivinmaa"
-                        finnish = "Liivinmaa"
-		        tsuudi = "Liivimaa"
-                        livonian = "Lïvõmõ"
-                        prussian = "Livonija"
-                        lettigallish = "Livonija"                        
-                        lithuanian = "Livonija" 
 
         d_livonia = {
 		color={ 191 191 191 }
@@ -19578,14 +19520,6 @@ e_russia = {
 	k_polotsk = {
 		color={ 119 35 100 }
 		color2={ 255 255 255 }
-		
-		danish = "Pallteskja"
-		norse = "Pallteskja"
-		swedish = "Pallteskja"
-		norwegian = "Pallteskja"
-		gothic = "Pallteskja"
-		norsegaelic = "Pallteskja"
-		anglonorse = "Pallteskja"
 
 		slavic_pagan_reformed = 300 # Crusade target weight
 		baltic_pagan_reformed = 300 # Crusade target weight
@@ -19697,13 +19631,13 @@ e_russia = {
 		capital = 547 # Kiev
 		culture = russian
 		
-		danish = "Kœnugarðr"
-		norse = "Kœnugarðr"
-		swedish = "Kœnugarðr"
-		norwegian = "Kœnugarðr"
-		gothic = "Kœnugarðr"
-		norsegaelic = "Kœnugarðr"
-		anglonorse = "Kœnugarðr"
+		danish = "Konugardr"
+		norse = "Konugardr"
+		swedish = "Konugardr"
+		norwegian = "Konugardr"
+		gothic = "Konugardr"
+		norsegaelic = "Konugardr"
+		anglonorse = "Konugardr"
 
 		slavic_pagan_reformed = 500 # Crusade target weight
 		baltic_pagan_reformed = 100 # Crusade target weight
@@ -23441,8 +23375,8 @@ e_italy = {
                         liege = { has_landed_title = e_byzantium }
                         }	
 		}
-			greek = "Exarchos Ravenna"
-			armenian = "Exarchos Ravenna"
+			greek = "Ravenna"
+			armenian = "Ravenna"
 		christian = 8000 # Crusade target weight
 		
 		d_ferrara = {
@@ -25738,7 +25672,7 @@ e_france = {
 		allow = {
 			culture_group = celtic
 		}
-			norse = Bertangaland
+		norse = Bertangaland
 		
 		d_lowerbrittany = {
 			color={ 210 210 200 }
@@ -26757,18 +26691,11 @@ e_iberia = {
 	culture = castillan
 	short_name = yes
 	
-	andalusian_arabic = "Isbaniyya"
-	maghreb_arabic = "Isbaniyya"
-	levantine_arabic = "Isbaniyya"
-	egyptian_arabic = "Isbaniyya"
-	sicilian_arabic = "Isbaniyya"
-	basque = "Espainia"
-	catalan = "Espanya"
-	leonese = "España"
-	galician = "España"
-	portuguese = "Espanha"
-	aragonese = "Espanya"
-	frankish = "Espagne"
+	andalusian_arabic = "Al-Andalus"
+	maghreb_arabic = "Al-Andalus"
+	levantine_arabic = "Al-Andalus"
+	egyptian_arabic = "Al-Andalus"
+	sicilian_arabic = "Al-Andalus"
 	
 	# Creation/usurpation trigger
 	allow = {
@@ -26797,13 +26724,6 @@ k_castille = {
 		egyptian_arabic = "al-Qila"
 		andalusian_arabic = "al-Qila"
 		sicilian_arabic = "al-Qila"
-		basque = "Gaztela"
-		catalan = "Castella"
-		leonese = "Castiella"
-		galician = "Castela"
-		portuguese = "Castela"
-		aragonese = "Castiella"
-		frankish = "Castille"
 		
 		catholic = 250 # Crusade target weight
 		sunni = 25 # Crusade target weight
@@ -27678,8 +27598,6 @@ k_castille = {
 		egyptian_arabic = "Bashkiyya"
 		andalusian_arabic = "Bashkiyya"
 		sicilian_arabic = "Bashkiyya"
-		basque = "Nafarroa"
-		frankish = "Navarre"
 			  
 		catholic = 250 # Crusade target weight
 		sunni = 15 # Crusade target weight
@@ -28080,10 +27998,6 @@ k_castille = {
 		egyptian_arabic = "al-Uyun"
 		andalusian_arabic = "al-Uyun"
 		sicilian_arabic = "al-Uyun"
-		leonese = "Llión"
-		catalan = "Lleó"
-		portuguese = "Leão"
-		aragonese = "Leyón"
 		
 		catholic = 250 # Crusade target weight
 		sunni = 25 # Crusade target weight
@@ -29106,10 +29020,6 @@ k_castille = {
 		egyptian_arabic = "Aragu'un"
 		andalusian_arabic = "Aragu'un"
 		sicilian_arabic = "Aragu'un"
-		catalan = "Aragó"
-		basque = "Aragoi"
-		portuguese = "Aragão"
-		frankish = "Aragon"	
 
 		catholic = 250 # Crusade target weight
 		sunni = 25 # Crusade target weight
@@ -37979,9 +37889,9 @@ e_abyssinia = {
 	
 	allow = {
 		culture_group = east_african
-		has_landed_title=k_maikelebahr
-		has_landed_title=k_nubia
-		has_landed_title=k_abyssinia
+		has_landed_title = k_maikelebahr
+		has_landed_title = k_nubia
+		has_landed_title = k_abyssinia
 	}
 }
 
@@ -37998,17 +37908,13 @@ e_britannia = {
         scottish = "Cruithn" 
         irish = "Cruithn" 
         norsegaelic = "Cruithn"
-        saxon = "Bryttania"
         swedish = "Bretland"
 	anglonorse = "Bretland"
 	gothic = "Bretland"
 	danish = "Bretland"
 	norwegian = "Bretland"
-        norse = "Bretland"
-	frankish = "Bretaigne"
-	norman = "Bretaigne" 
-	arpitan = "Bretaigne" 
-        greek = "Albion" 
+    norse = "Bretland"
+    greek = "Albion" 
 	
 	k_england = {
 		color={ 191 16 16 }
@@ -38016,24 +37922,13 @@ e_britannia = {
 		
 		capital = 26 # Winchester
 		dignity = 10 # Counted as having this many more counties than it does
-	
-		frankish = "Angleterre"
-		norman = "Angliétèrre"
-		saxon = "Ænglaland"
-		english = "Engelond"
-		swedish = "Ænglandi"
-		norsegaelic = "Ænglandi"
-		anglonorse = "Ænglandi"
-		gothic = "Ænglandi"
-		danish = "Ænglandi"
-		norwegian = "Ænglandi"
-                norse = "Ænglandi"
-                welsh = "Lloegyr" 
-                cumbric = "Lloegyr" 
-                breton = "Lloegyr" 
-                cornish = "Lloegyr" 
-                scottish = "Lloegyr" 
-                irish = "Lloegyr" 
+
+        welsh = "Lloegyr" 
+        cumbric = "Lloegyr" 
+        breton = "Lloegyr" 
+        cornish = "Lloegyr" 
+        scottish = "Lloegyr" 
+        irish = "Lloegyr" 
 		
 		catholic = 300 # Crusade target weight
 
@@ -42130,22 +42025,22 @@ e_britannia = {
 		capital = 64 # Gwynedd
 		culture = welsh
 		
-		irish = "Cymru"
-		cumbric = "Cymru"
-		cornish = "Cymru"
-		breton = "Cymru"
-		scottish = "Cymru"
-		norsegaelic = "Cymru"
-		welsh = "Cymru"
+		irish = "Cambria"
+		cumbric = "Cambria"
+		cornish = "Cambria"
+		breton = "Cambria"
+		scottish = "Cambria"
+		norsegaelic = "Cambria"
+		welsh = "Cambria"
 		english = "Wales"
-		saxon = "Wealas"
-                norwegian = "Bretland"
-	        danish = "Bretland"
-		swedish = "Bretland"
-		anglonorse = "Bretland"
-		gothic = "Bretland"
-                norse = "Bretland"
-                icelandic = "Bretland"
+		saxon = "Wales"
+        norwegian = "Wales"
+	    danish = "Wales"
+		swedish = "Wales"
+		anglonorse = "Wales"
+		gothic = "Wales"
+        norse = "Wales"
+        icelandic = "Wales"
 		
 		catholic = 300 # Crusade target weight
 		
@@ -42943,21 +42838,15 @@ e_britannia = {
 		color={ 3 49 35 }
 		color2={ 255 255 255 }
 
-		irish = "Éire"
-		scottish = "Èirinn"
 		norsegaelic = "Nerin"
-		welsh = "Iwerddon"
-		cumbric = "Iwerddon"
-		breton = "Iwerddon"
-		cornish = "Iwerddon"
 		saxon = "Íraland"
 		anglonorse = "Íraland"
-                norwegian = "Íraland"
-	        danish = "Íraland"
-	        swedish = "Íraland"
+        norwegian = "Íraland"
+	    danish = "Íraland"
+	    swedish = "Íraland"
 		gothic = "Íraland"
-                norse = "Íraland"
-                icelandic = "Íraland"
+        norse = "Íraland"
+        icelandic = "Íraland"
 		
 		capital = 11 # Dublin
 		
@@ -45196,9 +45085,9 @@ e_britannia = {
 					scottish = "Lios Mór"
 					norsegaelic = "Lios Mór"
 					welsh = "Lios Mór"
-			                cumbric = "Lios Mór"
-				        breton = "Lios Mór"
-				        cornish = "Lios Mór"
+			        cumbric = "Lios Mór"
+				    breton = "Lios Mór"
+				    cornish = "Lios Mór"
 				}
 			}
 		}
@@ -45209,23 +45098,18 @@ e_britannia = {
 		
 		capital = 43 #Gowrie
 		culture = scottish
-
-		cornish = "Alba"
-		breton = "Alba"		
-		irish = "Alba"
-		scottish = "Alba"
-		norsegaelic = "Alba"
-		cumbric = "Alba"
-		welsh = "Alba"
-		english = "Scotland"
-		saxon = "Scotland"
-                norwegian = "Skotlandi"
-	        danish = "Skotlandi"
-	        swedish = "Skotlandi"
-		anglonorse = "Skotlandi"
-		gothic = "Skotlandi"
-                norse = "Skotlandi"
-                icelandic = "Skotlandi"
+		
+		welsh = "Caledonia"
+		cumbric = "Caledonia"
+		breton = "Caledonia"
+		cornish = "Caledonia"
+        norwegian = "Skotland"
+	    danish = "Skotland"
+	    swedish = "Skotland"
+		anglonorse = "Skotland"
+		gothic = "Skotland"
+        norse = "Skotland"
+        icelandic = "Skotland"
 		
 		catholic = 300 # Crusade target weight
 		
