@@ -1,0 +1,464 @@
+###################################################################
+###################################################################
+# Elvain's West African dynasties
+###################################################################
+###################################################################
+
+
+#1030000 - Cisse (Soninke)
+#1030001 - Kante (Soninke/Sosso)
+#161009-161010 1000144680-1000144685 - characters
+#1030002 - Keita (Manden)
+#1030003 - Bereté
+#161019, 
+#1030010 - Traore (Manden)
+#161085-161093
+
+#1000053560 - Niakhate (Soninke)
+#1000144500-1000144509 - characters
+#1000053561 - Tunkara (Soninke)
+#1000144520-1000144519 - characters
+#1000053562
+#1000053563
+
+#1000053570 - Konate (Manden)
+#1000144620-1000144629 - characters
+#1000053571 - Toure (Manden)
+#1000144630-1000144639 - characters
+#1000053572 - Kamara (Manden)
+#1000144640-1000144649 - characters
+#1000053573 - Kone (Manden)
+#1000144650-1000144655 - characters
+
+#1000053580 - Torodbe (Wolof)
+#1000144530-1000144537
+#1000053581 - Walo (Wolof)
+#1000144540-1000144544 - characters
+#1000053582 - Silla (Wolof)
+#1000144545-1000144549 - characters
+#1000053590-1000053599 - Berber dynasties
+#1000054000-1000054049 - Berber dynasties
+#1000144550-1000144619 - characters
+#1000144656-1000144679 - Elvain's flavour characters
+
+# Soninke-original
+
+#1030000 = {
+#	name="Cisse"
+#	culture = soninke
+#}
+#1030001 = {
+#	name="Diarisso"
+#	culture = soninke
+#}
+#1030007 = {
+#	name="Sonni"
+#	culture = soninke
+#}
+#1030008 = {
+#	name="Askiya"
+#	culture = soninke
+#}
+#1030016 = {
+#	name="Mossi"
+#	culture = soninke
+#}
+
+###################################################################
+# Soninke-new
+
+1000053560 = {
+	name="Niakhate"
+	culture = soninke
+}
+1000053561 = {
+	name="Tunkara"
+	culture = soninke
+}
+1000053562 = {
+	name="Diawara"
+	culture = soninke
+}
+1000100885 = {
+	name="Soninke"
+	culture = soninke
+}
+
+# 1000100886 - 1000100889
+
+###################################################################
+# Manden
+
+#1030002 = {
+#	name="Keita"
+#	culture = manden
+#}
+#1030003 = {
+#	name="Bereté"
+#	culture = manden
+#}
+#1030010 = {
+#	name="Traoré"
+#	culture = manden
+#}
+1000053570 = {
+	name="Konaté"
+	culture = manden
+}
+1000053571 = {
+	name="Touré"
+	culture = manden
+}
+1000053572 = {
+	name="Koné"
+	culture = manden
+}
+1000053573 = {
+	name="Kamara"
+	culture = manden
+}
+1000053574 = {
+	name="Diakhanke" # of Bambuk
+	culture = manden
+}
+
+###################################################################
+# Wolof
+
+1000053580 = {
+	name="Torodbe"
+	culture = wolof
+}
+1000053581 = {
+	name="Walo"
+	culture = wolof
+}
+1000053582 = {
+	name="Silla"
+	culture = wolof
+}
+1000053583 = {
+	name="Joof"
+	culture = wolof
+}
+1000053584 = {
+	name="Njie"
+	culture = wolof
+}
+1000053585 = {
+	name="Faal"
+	culture = wolof
+}
+
+###################################################################
+# Berber
+
+
+#1027011 = {
+#	name="Riyahdid"
+#	culture = sanhaja
+#}
+
+#################################
+# Masmuda
+101875 = {
+	name="Almohad"
+	culture = masmuda
+}
+#################################
+# Tagelmust or Dark Sanhaja
+#7274 = {
+#	name="Almoravid"
+#	culture = tagelmust
+#}
+1000053590 = {
+	name="Tumart"
+	culture = tagelmust
+}
+1000053591 = {
+	name="Hezmira"
+	culture = tagelmust
+}
+1000053592 = {
+	name="Tehlawa"
+	culture = tagelmust
+}
+1000054001= {
+	name="Massúfa"
+	culture = tagelmust
+}
+1000054002 = {
+	name="Lamtúna"
+	culture = tagelmust
+}
+1000054003 = {
+	name="Lamta"
+	culture = tagelmust
+}
+1000054004 = {
+	name="Guddala"
+	culture = tagelmust
+}
+1000054005 = {
+	name="Gazzúla"
+	culture = tagelmust
+}
+1000101120= {
+	name="Tánmak"   # Sanhaja/Tagelmust rulers over Tadmekka's Zanáta Berbers
+	culture = tagelmust
+}
+
+#################################
+# Sanhaja
+1000053595 = {
+	name="Kutama"
+	culture = sanhaja
+}
+1000053596 = {
+	name="Sanhaja"
+	culture = sanhaja
+}
+1000054000= {
+	name="Banú Rand"
+	culture = sanhaja
+}
+1000101121= {
+	name="Azger"
+	culture = sanhaja
+}
+1000101122= {
+	name="Banú Wárith"
+	culture = sanhaja
+}
+# 1000101123 - 1000101129 - free Sanhaja and Tagelmust dynasties
+
+#################################
+# Zanata
+1000053594 = {
+	name="Banu Khattáb"
+	culture = zanata
+}
+1000054006= {
+	name="Banu Abid"
+	culture = zanata
+}
+1000054007= {
+	name="Muqqarí"
+	culture = zanata
+}
+1000054008= {
+	name="Massiní"
+	culture = zanata
+}
+1000054009= {
+	name="Lawata"
+	culture = zanata
+}
+1000054010= {
+	name="Mazáta"  # tribe in Surt and Waddán in Tripolitania
+	culture = zanata
+}
+1000101140= {
+	name="Hawwára"  # tribe in central Tripolitania
+	culture = zanata
+}
+1000101141= {
+	name="Askár"  # tribe south of Ghadámes
+	culture = zanata
+}
+1000101142= {
+	name="Tanáta"  # tribe near (east of) Ghadámes, related to Banú Idrádj
+	culture = zanata
+}
+1000101143= {
+	name="al-Abdún"  # dynasty of Lawáta tribe in Dakhla (al-Wahát/Egypt)
+	culture = zanata
+}
+1000101144= {
+	name="Mus'ab"  # tribe in Mzab - mu'tazilite, since 11th century ibadi
+	culture = zanata
+}
+1000101145= {
+	name="as-Samh"  # dynasty in Fezzan in 9th century
+	culture = zanata
+}
+1000101146= {
+	name="Banú Kaldín"  # tribe in Fezzan, related to Hawwára
+	culture = zanata
+}
+1000101147= {
+	name="Banú Idrádj"  # tribe in Djerid
+	culture = zanata
+}
+1000101148= {
+	name="Askár"  # tribe south of Ghadámes
+	culture = zanata
+}
+1000101149= {
+	name="Rígha"  # A Maghráwa Zanáta tribe ruling in Wádí Rígh (Arígh to Wargla)
+	culture = zanata
+}
+1000101260= {
+	name="Warjílán"  # A Zanáta branch, founders of Wargla
+	culture = zanata
+}
+#1000101261 - 1000101269 free Zanata dynasty
+
+#################################
+# Tuareg
+
+1000100880= {
+	name="Targa"
+	culture = tuareg
+}
+1000100881= {
+	name="Saghmára"     # tribe NE living of Tadmekka
+	culture = tuareg
+}
+1000100882= {
+	name="Asabat"       # Tuareg pagan tribe from Hoggar
+	culture = tuareg
+}
+1000100883= {
+	name="Tútak"        # Sanhája/Tuareg tribe in Tamanrasset
+	culture = tuareg
+}
+#1000100884 - free Tuareg dynasties
+
+###################################################################
+# Egyptian
+1000053597 = {
+        name="Ildekuzid"
+	culture = egyptian_arabic
+}
+1000053598 = {
+        name="Yaldakuzi"
+	culture = egyptian_arabic
+}
+1000053599 = {
+	name="Banu Hilal"
+	culture = maghreb_arabic
+}
+
+###################################################################
+# Kanuri
+
+1000101100 = {
+	name="Sayfawa"
+	culture = kanuri
+}
+1000101101 = {      # a dynasty, which was probably of Zaghawa origin
+	name="Duguwa"
+	culture = kanuri
+}
+1000101102 = {
+	name="Kay"       # a Kanuri clan, which lived towards Bornu
+	culture = kanuri
+}
+1000101103 = {
+	name="Teda"      # clan/people that live towards Kawar, separate people, which can also be taken under Zaghawa
+	culture = kanuri
+}
+1000101104 = {
+	name="Dabír"     # a Kanemba tribe, which no longer exists
+	culture = kanuri
+}
+1000101105 = {
+	name="Kunkuna"   # a Kanemba tribe, which no longer exists
+	culture = kanuri
+}
+
+#1000101106 - 1000101119 - free Kanuri dynasties
+
+###################################################################
+# Zaghawa
+
+1000101130= {
+	name="Zaghawa"
+	culture = zaghawa
+}
+1000101131 = {
+	name="Duguwa"
+	culture = kanuri
+}
+1000101132= {
+	name="Tomaghra"
+	culture = zaghawa
+}
+1000101133= {       # a people, who lived probably in the area of Tibesti
+	name="Tubu"
+	culture = zaghawa
+}
+
+#1000101134 - 1000101139 - free Zaghawa dynasties
+
+###################################################################
+# Beja
+1000101230= {
+	name="Kánúnid"
+	culture = beja
+}
+1000101231= {
+	name="Hadarat"
+	culture = beja
+}
+1000101232= {
+	name="Hijab"
+	culture = beja
+}
+1000101233= {
+	name="Ama'ir"
+	culture = beja
+}
+1000101234= {
+	name="Kawbar"
+	culture = beja
+}
+1000101235= {
+	name="Manasa"
+	culture = beja
+}
+1000101236= {
+	name="Arbab'a"
+	culture = beja
+}
+1000101237= {
+	name="Zanafig"
+	culture = beja
+}
+1000101238= {
+	name="Balliyin" #a christian tribe in the south
+	culture = beja
+}
+1000101239= {
+	name="Hadariba" 
+	culture = beja
+}
+
+#Free Beja Dynasties: 1000101240 - 1000101249
+
+
+###################################################################
+# Hausa
+
+1000101150= {
+	name="Durbawa" 
+	culture = hausa
+}
+1000101151= {
+	name="Daura" 
+	culture = hausa
+}
+1000101152= {
+	name="Habe" 
+	culture = hausa
+}
+1000101153= {
+	name="Gobiri" 
+	culture = hausa
+}
+1000101154= {
+	name="Gabas" 
+	culture = hausa
+}
+#1000101155 - 1000101199 - free Hausa dynasties
