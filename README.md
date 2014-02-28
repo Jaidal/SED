@@ -4,7 +4,7 @@ Speak English Dammit!
 Sub-Mod for the Somewhat More Historic Mod, part of the Historical Immersion Project for Crusader Kings 2
 ===
 
-Current Version: 0.1
+Current Version: 1.0
 For Crusader Kings 2: SWMH Version: 2.85
 
 This repository was created in the goal of furthering work on the anglicization sub-mod for SWMH, a ck2 map mod.
