@@ -7,10 +7,10 @@ k_austria;Austria;Österreich;Österreich;;Österreich;;;;;;;;;x
 k_austria_adj;Austrian;Austrian;Austrian;;Austrian;;;;;;;;;x
 k_oldlivonia;Livonia;Livonija;Livonija;;Livonija;;;;;;;;;x
 k_oldlivonia_adj;Livonian;Livonijas;Livonijas;;Livonijas;;;;;;;;;x
-k_gardariki;Gardarike;Garðaríki;Garðaríki;;Garðaríki;;;;;;;;;x
+k_gardariki;Gardariki;Garðaríki;Garðaríki;;Garðaríki;;;;;;;;;x
 k_gardariki_adj;Gardariker;Garðaríkr;Garðaríkr;;Garðaríkr;;;;;;;;;x
 k_toulouse;Toulouse;Tolosa;Tolosa;;Tolosa;;;;;;;;;x
-k_toulouse_adj;Tolosan;Tolosan;Tolosan;;Tolosan;;;;;;;;;x
+k_toulouse_adj;Tolousian;Tolosan;Tolosan;;Tolosan;;;;;;;;;x
 k_flanders;Flanders;Flanders;Flanders;;Flanders;;;;;;;;;x
 k_flanders_adj;Flemish;Flamande;Flamande;;Flamande;;;;;;;;;x
 k_provence;Provence;Provença;Provença;;Provença;;;;;;;;;x
@@ -55,8 +55,8 @@ d_medinaceli;Medinaceli;Medinaceli;Medinaceli;;Medinaceli;;;;;;;;;x
 d_medinaceli_adj;Medinacelian;de Medinaceli;de Medinaceli;;de Medinaceli;;;;;;;;;x
 e_occitania;Occitania;Occitània;Occitània;;Occitània;;;;;;;;;x
 e_occitania_adj;Occitan;Occitan;Occitan;;Occitan;;;;;;;;;x
-d_sangermano;Terra Sancti Benedicti;Terra Sancti Benedicti;Terra Sancti Benedicti;;Terra Sancti Benedicti;;;;;;;;;x
-d_sangermano_adj;Bendicitian;Bendicitian;Bendicitian;;Bendicitian;;;;;;;;;x
+d_sangermano;Land of Saint Benedict;Terra Sancti Benedicti;Terra Sancti Benedicti;;Terra Sancti Benedicti;;;;;;;;;x
+d_sangermano_adj;Benedictan;Bendicitian;Bendicitian;;Bendicitian;;;;;;;;;x
 d_swabia;Swabia;Schwaben;Schwaben;;Schwaben;;;;;;;;;x
 d_swabia_adj;Swabian;Schwäbische;Schwäbische;;Schwäbische;;;;;;;;;x
 d_carinthia;Carinthia;Kärnten;Kärnten;;Kärnten;;;;;;;;;x
@@ -131,8 +131,8 @@ d_burtas;Burtasians;Burtasians;Burtasians;;Burtasians;;;;;;;;;x
 d_burtas_adj;Burtasian;Burtasian;Burtasian;;Burtasian;;;;;;;;;x
 e_ulm;Ulm;Ulm;Ulm;;Ulm;;;;;;;;;x
 e_ulm_adj;Ulmian;Ulmian;Ulmian;;Ulmian;;;;;;;;;x
-d_erzosterreich;Österreich;Österreich;Österreich;;Österreich;;;;;;;;;x
-d_erzosterreich_adj;Österreichen;Österreichen;Österreichen;;Österreichen;;;;;;;;;x
+d_erzosterreich;Austria;Österreich;Österreich;;Österreich;;;;;;;;;x
+d_erzosterreich_adj;Austrian;Österreichen;Österreichen;;Österreichen;;;;;;;;;x
 k_norman_england;England;England;England;;England;;;;;;;;;x
 k_norman_england_adj;English;English;English;;English;;;;;;;;;x
 d_kryvians;Kryvians;Krivichi;Krivichi;;Krivichi;;;;;;;;;x
@@ -145,7 +145,7 @@ d_dregovichi;Dregoviches;Dregoviches;Dregoviches;;Dregoviches;;;;;;;;;x
 d_dregovichi_adj;Dregovichan;Dregovichan;Dregovichan;;Dregovichan;;;;;;;;;x
 d_lendians;Lendians;Lendians;Lendians;;Lendians;;;;;;;;;x
 d_lendians_adj;Lendian;Lendian;Lendian;;Lendian;;;;;;;;;x
-k_geats;Götaland;Götaland;Götaland;;Götaland;;;;;;;;;x
+k_geats;Geatland;Götaland;Götaland;;Götaland;;;;;;;;;x
 k_geats_adj;Geatish;Geatish;Geatish;;Geatish;;;;;;;;;x
-e_kaleva;Kalevala;Kalevala;Kalevala;;Kalevala;;;;;;;;;x
-e_kaleva_adj;Kalevalan;Kalevalan;Kalevalan;;Kalevalan;;;;;;;;;x
+e_kaleva;Kalevia;Kalevala;Kalevala;;Kalevala;;;;;;;;;x
+e_kaleva_adj;Kalevian;Kalevalan;Kalevalan;;Kalevalan;;;;;;;;;x

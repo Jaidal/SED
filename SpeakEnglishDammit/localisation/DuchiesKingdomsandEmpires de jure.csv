@@ -36,6 +36,8 @@ k_lithuania;Lithuania;Lietuva;Lietuva;;Lietuva;;;;;;;;;x
 k_lithuania_adj;Lithuanian;Lietuvos;Lietuvos;;Lietuvos;;;;;;;;;x
 k_bohemia;Bohemia;Czeske;Czeske;;Czeske;;;;;;;;;x
 k_bohemia_adj;Bohemian;Ceský;Ceský;;Ceský;;;;;;;;;x
+d_bohemians;Bohemians;Ceský;Ceský;;Ceský;;;;;;;;;x
+d_bohemians_adj;Bohemian;Ceský;Ceský;;Ceský;;;;;;;;;x
 k_hungary;Hungary;Magyarország;Magyarország;;Magyarország;;;;;;;;;x
 k_hungary_adj;Hungarian;Magyar;Magyar;;Magyar;;;;;;;;;x
 k_serbia;Serbia;Srbija;Srbija;;Srbija;;;;;;;;;x
@@ -48,17 +50,17 @@ k_saxony;Saxony;Sachsen;Sachsen;;Sachsen;;;;;;;;;x
 k_saxony_adj;Saxon;Sächsische;Sächsische;;Sächsische;;;;;;;;;x
 k_armenia;Armenia;Hayk;Hayk;;Hayk;;;;;;;;;x
 k_armeina_adj;Armenian;Hayeren;Hayeren;;Hayeren;;;;;;;;;x
-k_aragon;Aragón;Aragón;Aragón;;Aragón;;;;;;;;;x
+k_aragon;Aragon;Aragón;Aragón;;Aragón;;;;;;;;;x
 k_aragon_adj;Aragonese;Aragonesa;Aragonesa;;Aragonesa;;;;;;;;;x
 k_burgundy;Burgundy;Bourgogne;Bourgogne;;Bourgogne;;;;;;;;;x
 k_burgundy_adj;Burgundian;Bourguigon;Bourguigon;;Bourguigon;;;;;;;;;x
 k_castille;Castile;Castilla;Castilla;;Castilla;;;;;;;;;x
 k_castille_adj;Castilian;Castellana;Castellana;;Castellana;;;;;;;;;x
-k_leon;León;León;León;;León;;;;;;;;;x
+k_leon;Leon;León;León;;León;;;;;;;;;x
 k_leon_adj;Leonese;Leonesa;Leonesa;;Leonesa;;;;;;;;;x
 k_navarra;Navarra;Navarra;Navarra;;Navarra;;;;;;;;;x
 k_navarra_adj;Navarrese;Navarra;Navarra;;Navarra;;;;;;;;;x
-k_andalusia;Al-Andalus;Al-Andalus;Al-Andalus;;Al-Andalus;;;;;;;;;x
+k_andalusia;Andalusia;Al-Andalus;Al-Andalus;;Al-Andalus;;;;;;;;;x
 k_andalusia_adj;Andalusian;Andalusí;Andalusí;;Andalusí;;;;;;;;;x
 k_moldau;Moldova;Moldova;Moldova;;Moldova;;;;;;;;;x
 k_moldau_adj;Moldovian;Moldovenesc;Moldovenesc;;Moldovenesc;;;;;;;;;x
@@ -66,7 +68,7 @@ k_taurica;Crimea;Krimea;Krimea;;Krimea;;;;;;;;;x
 k_taurica_adj;Crimean;Krimean;Krimean;;Krimean;;;;;;;;;x
 k_byzantium;Thessalonika;Thessalonika;Thessalonika;;Thessalonika;;;;;;;;;x
 k_byzantium_adj;Thessalonian;Hellenic;Hellenic;;Hellenic;;;;;;;;;x
-k_anatolia;Iconion;Iconium;Iconium;;Iconium;;;;;;;;;x
+k_anatolia;Iconiun;Iconium;Iconium;;Iconium;;;;;;;;;x
 k_anatolia_adj;Anatolian;Anatolian;Anatolian;;Anatolian;;;;;;;;;x
 k_lotharingia;Lotharingia;Lotharingie;Lothringien;;Lotaringia;;;;;;;;;x
 k_lotharingia_adj;Lotharingian;Lotharingienne;Lothringischen;;Lotaringol;;;;;;;;;x
@@ -78,7 +80,7 @@ k_schwaben;Swabia;Schwaben;Schwaben;;Schwaben;;;;;;;;;x
 k_schwaben_adj;Swabian;Schwäbische;Schwäbische;;Schwäbische;;;;;;;;;x
 k_wallachia;Wallachia;Wallachia;Wallachia;;Wallachia;;;;;;;;;x
 k_wallachia_adj;Wallachian;Wallachian;Wallachian;;Wallachian;;;;;;;;;x
-k_galicia;Galych-Volhyn;Halych-Volyn;Halych-Volyn;;Halych-Volyn;;;;;;;;;x
+k_galicia;Galicia–Volhynia;Halych-Volyn;Halych-Volyn;;Halych-Volyn;;;;;;;;;x
 k_galicia_adj;Galichian;Halychian;Halychian;;Halychian;;;;;;;;;x
 k_novgorod;Novgorod;Novgorod;Novgorod;;Novgorod;;;;;;;;;x
 k_novgorod_adj;Novgorodian;Novgorodian;Novgorodian;;Novgorodian;;;;;;;;;x
@@ -118,16 +120,16 @@ k_portugal;Portugal;Portugal;Portugal;;Portugal;;;;;;;;;x
 k_portugal_adj;Portuguese;Portuguesa;Portuguesa;;Portuguesa;;;;;;;;;x
 d_finland;Finland;Suomi;Suomi;;Suomi;;;;;;;;;x
 d_finland_adj;Finnish;Suomalainen;Suomalainen;;Suomalainen;;;;;;;;;x
-d_pinsk;Podlasia;Podlasie;Podlasie;;Podlasie;;;;;;;;;x
-d_pinsk_adj;Podlasian;Podlasiean;Podlasiean;;Podlasiean;;;;;;;;;x
-d_lettigale;Lettigallen;Lettigallia;Lettigallia;;Lettigallia;;;;;;;;;x
+d_pinsk;Podlesia;Podlasie;Podlasie;;Podlasie;;;;;;;;;x
+d_pinsk_adj;Podlesian;Podlasiean;Podlasiean;;Podlasiean;;;;;;;;;x
+d_lettigale;Lettigallia;Lettigallia;Lettigallia;;Lettigallia;;;;;;;;;x
 d_lettigale_adj;Lettigallian;Lettigallian;Lettigallian;;Lettigallian;;;;;;;;;x
 d_julich;Jülich;Jülich;Jülich;;Jülich;;;;;;;;;x
 d_julich_adj;Jülichian;Jülichienne;Jülichen;;Jülichen;;;;;;;;;x
 d_olvia;Olvia;Olvia;Olvia;;Olvia;;;;;;;;;x
 d_olvia_adj;Olvian;Olvian;Olvian;;Olvian;;;;;;;;;x
-d_susa;Piemont;Piemonte;Piemonte;;Piemonte;;;;;;;;;x
-d_susa_adj;Piemontese;Piemontessian;Piemontessian;;Piemontessian;;;;;;;;;x
+d_susa;Piedmont;Piemonte;Piemonte;;Piemonte;;;;;;;;;x
+d_susa_adj;Piedmontese;Piemontessian;Piemontessian;;Piemontessian;;;;;;;;;x
 d_sharukan;Sharukan;Sharukan;Sharukan;;Sharukan;;;;;;;;;x
 d_sharukan_adj;Sharukanian;Sharukanian;Sharukanian;;Sharukanian;;;;;;;;;x
 d_syrt;Syrt;Syrt;Syrt;;Syrt;;;;;;;;;x
@@ -136,8 +138,8 @@ d_mordva;Mordva;Mordva;Mordva;;Mordva;;;;;;;;;x
 d_mordva_adj;Mordvan;Mordvan;Mordvan;;Mordvan;;;;;;;;;x
 d_oldenburg;Lower Saxony;Niedersachsen;Niedersachsen;;Niedersachsen;;;;;;;;;x
 d_oldenburg_adj;Lower Saxon;Niedersaxish;Niedersaxish;;Niedersaxish;;;;;;;;;x
-d_nuremberg;Nürnberg;Nürnberg;Nürnberg;;Nürnberg;;;;;;;;;x
-d_nuremberg_adj;Nürnberger;Bavarian;Bavarian;;Bavarian;;;;;;;;;x
+d_nuremberg;Nuremberg;Nürnberg;Nürnberg;;Nürnberg;;;;;;;;;x
+d_nuremberg_adj;Bavarian;Bavarian;Bavarian;;Bavarian;;;;;;;;;x
 d_jylland;Jylland;Jutäland;Jutäland;;Jutäland;;;;;;;;;x
 d_jylland_adj;Jyllandian;Jutälandish;Jutälandish;;Jutälandish;;;;;;;;;x
 d_lubeck;Lübeck;Lübeck;Lübeck;;Lübeck;;;;;;;;;x
@@ -146,27 +148,27 @@ d_moers;Möers;Möers;Möers;;Möers;;;;;;;;;x
 d_moers_adj;Möersian;Möersian;Möersian;;Möersian;;;;;;;;;x
 d_holstein;Holstein;Holstein;Holstein;;Holstein;;;;;;;;;x
 d_holstein_adj;Holsteinian;Holsteinisch;Holsteinisch;;Holsteinisch;;;;;;;;;x
-d_aquileia;Friùli;Friùli;Friùli;;Friùli;;;;;;;;;x
+d_aquileia;Friuli;Friùli;Friùli;;Friùli;;;;;;;;;x
 d_aquileia_adj;Friulian;Friulano;Friulano;;Friulano;;;;;;;;;x
-d_meath;Mide;Mide;Mide;;Mide;;;;;;;;;x
+d_meath;Meath;Mide;Mide;;Mide;;;;;;;;;x
 d_meath_adj;Midenan;Midenan;Midenan;;Midenan;;;;;;;;;x
 d_nordgau;Nordgau;Nordgau;Nordgau;;Nordgau;;;;;;;;;x
 d_nordgau_adj;Nordgauian;Nordgauian;Nordgauian;;Nordgauian;;;;;;;;;x
-d_brunswick;Braunschweig-Lüneburg;Braunschweig-Lüneburg;Braunschweig-Lüneburg;;Braunschweig-Lüneburg;;;;;;;;;x
+d_brunswick;Brunswick-Lüneburg;Braunschweig-Lüneburg;Braunschweig-Lüneburg;;Braunschweig-Lüneburg;;;;;;;;;x
 d_brunswick_adj;Braunschweigian;Braunschweigian;Braunschweigian;;Braunschweigian;;;;;;;;;x
 d_koln;Cologne;Köln;Köln;;Köln;;;;;;;;;x
 d_koln_adj;Colognian;Rheinsh;Rheinsh;;Rheinsh;;;;;;;;;x
-d_zurich;Zürichgau;Zürichgau;Zürichgau;;Zürichgau;;;;;;;;;x
-d_zurich_adj;Zürch;Swiss;Swiss;;Swiss;;;;;;;;;x
-d_brandenburg;Nordmark;Nordmark;Nordmark;;Nordmark;;;;;;;;;x
-d_brandenburg_adj;Nordmarkian;Nordmarkian;Nordmarkian;;Nordmarkian;;;;;;;;;x
+d_zurich;Zürich;Zürichgau;Zürichgau;;Zürichgau;;;;;;;;;x
+d_zurich_adj;Swiss;Swiss;Swiss;;Swiss;;;;;;;;;x
+d_brandenburg;Brandenburg;Nordmark;Nordmark;;Nordmark;;;;;;;;;x
+d_brandenburg_adj;Brandenburgian;Nordmarkian;Nordmarkian;;Nordmarkian;;;;;;;;;x
 d_csanad;Csanád;Csanád;Csanád;;Csanád;;;;;;;;;x
 d_csanad_adj;Csanádian;Csanádian;Csanádian;;Csanádian;;;;;;;;;x
 d_esztergom;Visegrád;Visegrád;Visegrád;;Visegrád;;;;;;;;;x
 d_vidzeme;Vidzeme;Vidzeme;Vidzeme;;Vidzeme;;;;;;;;;x
 d_vidzeme_adj;Vidzemian;Vidzemian;Vidzemian;;Vidzemian;;;;;;;;;x
-d_livonia;Saare-Lääne;Saare-Lääne;Saare-Lääne;;Saare-Lääne;;;;;;;;;x
-d_livonia_adj;Saare-Läänian;Saare-Läänian;Saare-Läänian;;Saare-Läänian;;;;;;;;;x
+d_livonia;Livonia;Saare-Lääne;Saare-Lääne;;Saare-Lääne;;;;;;;;;x
+d_livonia_adj;Livonian;Saare-Läänian;Saare-Läänian;;Saare-Läänian;;;;;;;;;x
 d_hrodna;Trakai;Trakai;Trakai;;Trakai;;;;;;;;;x
 d_hrodna_adj;Trakaian;Trakaian;Trakaian;;Trakaian;;;;;;;;;x
 d_druck;Minsk;Minsk;Minsk;;Minsk;;;;;;;;;x
@@ -180,8 +182,8 @@ d_hum_adj;Humian;Humian;Humian;;Humian;;;;;;;;;x
 d_bacs;Bács;Bács;Bács;;Bács;;;;;;;;;x
 d_bacs_adj;Bácsian;Bácsian;Bácsian;;Bácsian;;;;;;;;;x
 d_moravia;Moravia;Morawske;Morawske;;Morawske;;;;;;;;;x
-d_bohemia;Moravian;Czeske;Czeske;;Czeske;;;;;;;;;x
-d_pfalz;Rhine Palatinate;Pfalzgrafschaft bei Rhein;Pfalzgrafschaft bei Rhein;;Pfalzgrafschaft bei Rhein;;;;;;;;;x
+d_moravia_adj;Moravian;Czeske;Czeske;;Czeske;;;;;;;;;x
+d_pfalz;Rhine;Pfalzgrafschaft bei Rhein;Pfalzgrafschaft bei Rhein;;Pfalzgrafschaft bei Rhein;;;;;;;;;x
 d_pfalz_adj;Palatian;Rheinish;Rheinish;;Rheinish;;;;;;;;;x
 d_sampi;Sámpi;Sámpi;Sámpi;;Sámpi;;;;;;;;;x
 d_sampi_adj;Lappish;Lappish;Lappish;;Lappish;;;;;;;;;x
@@ -190,7 +192,7 @@ d_strymon_adj;Greek;Greek;Greek;;Greek;;;;;;;;;x
 d_skopje;Bulgaria;Bulgaria;Bulgaria;;Bulgaria;;;;;;;;;x
 d_skopje_adj;Bulgarian;Bulgarian;Bulgarian;;Bulgarian;;;;;;;;;x
 d_limburg;Limburg;Limburg;Limburg;;Limburg;;;;;;;;;x
-d_limburg_adj;Limbürgish;Limbürgish;Limbürgish;;Limbürgish;;;;;;;;;x
+d_limburg_adj;Limburgian;Limbürgish;Limbürgish;;Limbürgish;;;;;;;;;x
 d_athens;Hellas;Hellas;Hellas;;Hellas;;;;;;;;;x
 d_athens_adj;Hellenic;Hellenic;Hellenic;;Hellenic;;;;;;;;;x
 d_turnovo;Paristrion;Paristrion;Paristrion;;Paristrion;;;;;;;;;x
@@ -207,8 +209,8 @@ d_salzburg;Salzburg;Salzburg;Salzburg;;Salzburg;;;;;;;;;x
 d_salzburg_adj;Salzburgian;Salzburgian;Salzburgian;;Salzburgian;;;;;;;;;x
 d_bremen;Bremen;Bremen;Bremen;;Bremen;;;;;;;;;x
 d_bremen_adj;Bremish;Bremish;Bremish;;Bremish;;;;;;;;;x
-d_wurzburg;Ostfranken;Ostfranken;Ostfranken;;Ostfranken;;;;;;;;;x
-d_wurzburg_adj;Ostfrankish;Frankish;Frankish;;Frankish;;;;;;;;;x
+d_wurzburg;Lower Franconia;Ostfranken;Ostfranken;;Ostfranken;;;;;;;;;x
+d_wurzburg_adj;Franconian;Frankish;Frankish;;Frankish;;;;;;;;;x
 d_hainaut;Hainaut;Hainaut;Hainaut;;Hainaut;;;;;;;;;x
 d_hainaut_adj;Wallonian;Wallonian;Wallonian;;Wallonian;;;;;;;;;x
 d_tyrol;Tyrol;Tyrol;Tyrol;;Tyrol;;;;;;;;;x
@@ -217,8 +219,8 @@ d_barleduc;Bar;Bar;Bar;;Bar;;;;;;;;;x
 d_barleduc_adj;Lotharingian;Lotharingian;Lotharingian;;Lotharingian;;;;;;;;;x
 d_upper_lorraine;Moselle;Moselle;Moselle;;Moselle;;;;;;;;;x
 d_upper_lorraine_adj;Moselle;Moselle;Moselle;;Moselle;;;;;;;;;x
-d_niederbayern;Niederbaiern;Niederbaiern;Niederbaiern;;Niederbaiern;;;;;;;;;x
-d_niederbayern_adj;Niederbairische;Niederbairische;Niederbairische;;Niederbairische;;;;;;;;;x
+d_niederbayern;Lower Bavaria;Niederbaiern;Niederbaiern;;Niederbaiern;;;;;;;;;x
+d_niederbayern_adj;Lower Bavarian;Niederbairische;Niederbairische;;Niederbairische;;;;;;;;;x
 d_zahringen;Zähringen;Zähringen;Zähringen;;Zähringen;;;;;;;;;x
 d_zahringen_adj;Zähringern;Zähringern;Zähringern;;Zähringern;;;;;;;;;x
 d_bamberg;Bamberg;Bamberg;Bamberg;;Bamberg;;;;;;;;;x
@@ -229,7 +231,7 @@ d_chur;Chur;Chur;Chur;;Chur;;;;;;;;;x
 d_chur_adj;Swabian;Schwäbishe;Schwäbishe;;Schwäbishe;;;;;;;;;x
 d_basel;Basel;Basel;Basel;;Basel;;;;;;;;;x
 d_basel_adj;Swiss;Swiss;Swiss;;Swiss;;;;;;;;;x
-d_arles;Arle;Arle;Arle;;Arle;;;;;;;;;x
+d_arles;Arles;Arle;Arle;;Arle;;;;;;;;;x
 d_arles_adj;Occitan;Occitan;Occitan;;Occitan;;;;;;;;;x
 d_provence;Provence;Provença;Provença;;Provença;;;;;;;;;x
 d_provence_adj;Provencal;Occitan;Occitan;;Occitan;;;;;;;;;x
@@ -254,7 +256,7 @@ d_vaspurakan_adj;Armenian;Armenian;Armenian;;Armenian;;;;;;;;;x
 d_suenik;Suenik;Suenik;Suenik;;Suenik;;;;;;;;;x
 d_suenik_adj;Armenian;Armenian;Armenian;;Armenian;;;;;;;;;x
 d_tao;Tayk;Tayk;Tayk;;Tayk;;;;;;;;;x
-d_tao_adj;Anatolian;Anatolian;Anatolian;;Anatolian;;;;;;;;;x
+d_tao_adj;Armenian;Armenian;Armenian;;Armenian;;;;;;;;;x
 d_mesopotamia;Taron;Taron;Taron;;Taron;;;;;;;;;x
 d_mesopotamia_adj;Armenian;Armenian;Armenian;;Armenian;;;;;;;;;x
 d_frisia;Frisia;Frisia;Frisia;;Frisia;;;;;;;;;x
@@ -265,8 +267,8 @@ d_magdeburg;Magdeburg;Magdeburg;Magdeburg;;Magdeburg;;;;;;;;;x
 d_magdeburg_adj;Magdeburgish;Magdeburgish;Magdeburgish;;Magdeburgish;;;;;;;;;x
 d_cyprus;Nicosia;Nicosia;Nicosia;;Nicosia;;;;;;;;;x
 d_cyprus_adj;Nicosian;Nicosian;Nicosian;;Nicosian;;;;;;;;;x
-d_limisol;Limmassol;Limmassol;Limmassol;;Limmassol;;;;;;;;;x
-d_limisol_adj;Limmassolian;Limmassolian;Limmassolian;;Limmassolian;;;;;;;;;x
+d_limisol;Limassol;Limassol;Limassol;;Limassol;;;;;;;;;x
+d_limisol_adj;Limassolian;Limassolian;Limassolian;;Limassolian;;;;;;;;;x
 d_corsica;Corsica;Corsica;Corsica;;Corsica;;;;;;;;;x
 d_corsica_adj;Corsican;Corsican;Corsican;;Corsican;;;;;;;;;x
 d_sjaelland;Syäland;Syäland;Syäland;;Syäland;;;;;;;;;x
@@ -281,8 +283,8 @@ d_temes_adj;Temesite;temesite;Temesiter;;Temesí;;;;;;;;;x
 d_ungvar_adj;Ungvaran;ungvaran;Ungvarer;;Ungvaranés;;;;;;;;;x
 d_pest;Pest;Biharország;Biharország;;Biharország;;;;;;;;;x
 d_pest_adj;Pestian;Biharországien;Biharországer;;Biharországí;;;;;;;;;x
-d_transylvania;Transsylvania;Erdélyország;Erdélyország;;Erdélyország;;;;;;;;;x
-d_transylvania_adj;Transsylvanian;Erdélyországien;Erdélyországer;;Erdélyországiano;;;;;;;;;x
+d_transylvania;Transylvania;Erdélyország;Erdélyország;;Erdélyország;;;;;;;;;x
+d_transylvania_adj;Transylvanian;Erdélyországien;Erdélyországer;;Erdélyországiano;;;;;;;;;x
 d_nyitra;Nyitra;Nyitraország;Nyitraország;;Nyitraország;;;;;;;;;x
 d_nyitra_adj;Nyitrian;Nyitraországian;Nyitraországer;;Nyitraországí;;;;;;;;;x
 d_tarent;Taranto;Principato di Taranto;Principato di Taranto;;Principato di Taranto;;;;;;;;;x
@@ -331,8 +333,8 @@ d_wallachia;Mutenia;Mutenia;Mutenia;;Mutenia;;;;;;;;;x
 d_wallachia_adj;Mutenian;Mutenian;Mutenian;;Mutenian;;;;;;;;;x
 d_moldau;Moldova;Tara de Sus;Tara de Sus;;Tara de Sus;;;;;;;;;x
 d_moldau_adj;Moldovian;Moldovenesc;Moldovenesc;;Moldovenesc;;;;;;;;;x
-d_basarabia;Bassarabia;Tara de Jos;Tara de Jos;;Tara de Jos;;;;;;;;;x
-d_basarabia_adj;Bassarabian;Moldovenesc;Moldovenesc;;Moldovenesc;;;;;;;;;x
+d_basarabia;Bessarabia;Tara de Jos;Tara de Jos;;Tara de Jos;;;;;;;;;x
+d_basarabia_adj;Bessarabian;Moldovenesc;Moldovenesc;;Moldovenesc;;;;;;;;;x
 d_ujavar;Újavár;Újavár;Újavár;;Újavár;;;;;;;;;x
 d_ujavar_adj;Újavárian;Újavárian;Újavárian;;Újavárian;;;;;;;;;x
 d_gyor;Gyõr;Gyõr;Gyõr;;Gyõr;;;;;;;;;x
@@ -358,7 +360,7 @@ d_burgundy_adj;Burgundian;Bourguigon;Bourguigon;;Bourguigon;;;;;;;;;x
 d_aquitaine;Aquitaine;Aquitània;Aquitània;;Aquitània;;;;;;;;;x
 d_aquitaine_adj;Occitan;Occitan;Occitan;;Occitan;;;;;;;;;x
 d_lithuanians;Lietuva;Lietuva;Lietuva;;Lietuva;;;;;;;;;x
-d_lithuanians_adj;Lietuvos;Lietuvos;Lietuvos;;Lietuvos;;;;;;;;;x
+d_lithuanians_adj;Lietuvian;Lietuvos;Lietuvos;;Lietuvos;;;;;;;;;x
 d_upper_burgundy;Upper Burgundy;Haute Bourgogne ;Haute Bourgogne ;;Haute Bourgogne ;;;;;;;;;x
 d_upper_burgundy_adj;Upper Burgundian;Bourguigon;Bourguigon;;Bourguigon;;;;;;;;;x
 d_silesia;Silesia;Slask;Slask;;Slask;;;;;;;;;x
@@ -417,25 +419,25 @@ d_jazira;Diyar Mudar;Diyar Mudar;Diyar Mudar;;Diyar Mudar;;;;;;;;;x
 d_jazira_adj;Mudaren;Mudaren;Mudaren;;Mudaren;;;;;;;;;x
 d_homs;Homs;Hims;Hims;;Hims;;;;;;;;;x
 d_homs_adj;Homsian;Himsan;Himsan;;Himsan;;;;;;;;;x
-d_jordan;al-Urdunn;al-Urdunn;al-Urdunn;;al-Urdunn;;;;;;;;;x
-d_jordan_adj;al-Urdunnan;al-Urdunnan;al-Urdunnan;;al-Urdunnan;;;;;;;;;x
+d_jordan;Jordan;al-Urdunn;al-Urdunn;;al-Urdunn;;;;;;;;;x
+d_jordan_adj;Jordian;al-Urdunnan;al-Urdunnan;;al-Urdunnan;;;;;;;;;x
 d_damascus;Damascus;Dimashq;Dimashq;;Dimashq;;;;;;;;;x
 d_damascus_adj;Damascus;Dimashqan;Dimashqan;;Dimashqan;;;;;;;;;x
 d_aleppo;Aleppo;Qinnasrin;Qinnasrin;;Qinnasrin;;;;;;;;;x
 d_aleppo_adj;Aleppan;Qinnasrinan;Qinnasrinan;;Qinnasrinan;;;;;;;;;x
 k_syria;Syria;Al-Sham;Al-Sham;;Al-Sham;;;;;;;;;x
 k_syria_adj;Syrian;Al-Shaman;Al-Shaman;;Al-Shaman;;;;;;;;;x
-k_aljazira;Al Jazira;Al Jazira;Al Jazira;;Al Jazira;;;;;;;;;x
+k_aljazira;Jazira;Al Jazira;Al Jazira;;Al Jazira;;;;;;;;;x
 k_aljazira_adj;Jaziran;Jaziran;Jaziran;;Jaziran;;;;;;;;;x
 d_antioch;Antioch;Principauté d'Antioche;Principauté d'Antioche;;Principauté d'Antioche;;;;;;;;;x
 d_antioch_adj;Antiochean;Antiochean;Antiochean;;Antiochean;;;;;;;;;x
 d_castilla;Castile;Castilla;Castilla;;Castilla;;;;;;;;;x
 d_castilla_adj;Castilian;Castellana;Castellana;;Castellana;;;;;;;;;x
-d_leon;León;León;León;;León;;;;;;;;;x
+d_leon;Leon;León;León;;León;;;;;;;;;x
 d_leon_adj;Leonese;Leonesa;Leonesa;;Leonesa;;;;;;;;;x
 d_navarra;Navarra;Navarra;Navarra;;Navarra;;;;;;;;;x
 d_navarra_adj;Navarrese;Navarra;Navarra;;Navarra;;;;;;;;;x
-d_aragon;Aragón;Aragón;Aragón;;Aragón;;;;;;;;;x
+d_aragon;Aragon;Aragón;Aragón;;Aragón;;;;;;;;;x
 d_aragon_adj;Aragonese;Aragonesa;Aragonesa;;Aragonesa;;;;;;;;;x
 d_la_mancha;La Mancha;La Mancha;La Mancha;;La Mancha;;;;;;;;;x
 d_la_mancha_adj;Manchian;Manchega;Manchega;;Manchega;;;;;;;;;x
@@ -445,11 +447,11 @@ d_algarve;Algarve;Algarve;Algarve;;Algarve;;;;;;;;;x
 d_algarve_adj;Algarvian;Algarvia;Algarvia;;Algarvia;;;;;;;;;x
 d_beira;Beira;Beira;Beira;;Beira;;;;;;;;;x
 d_beira_adj;Beiroan;Beiroa;Beiroa;;Beiroa;;;;;;;;;x
-d_catalunya_nova;Catalunya Nova;Catalunya Nova;Catalunya Nova;;Catalunya Nova;;;;;;;;;x
+d_catalunya_nova;Catalonia Nova;Catalunya Nova;Catalunya Nova;;Catalunya Nova;;;;;;;;;x
 d_catalunya_nova_adj;Catalan;Catalana;Catalana;;Catalana;;;;;;;;;x
-d_catalunya_vella;Catalunya Vella;Catalunya Vella;Catalunya Vella;;Catalunya Vella;;;;;;;;;x
+d_catalunya_vella;Catalonia Vella;Catalunya Vella;Catalunya Vella;;Catalunya Vella;;;;;;;;;x
 d_catalunya_vella_adj;Catalan;Catalana;Catalana;;Catalana;;;;;;;;;x
-d_cordoba;Córdoba;Córdoba;Córdoba;;Córdoba;;;;;;;;;x
+d_cordoba;Cordoba;Córdoba;Córdoba;;Córdoba;;;;;;;;;x
 d_cordoba_adj;Cordoban;Cordobesa;Cordobesa;;Cordobesa;;;;;;;;;x
 d_badajoz;Extremadura;Extremadura;Extremadura;;Extremadura;;;;;;;;;x
 d_badajoz_adj;Extremaduran;Extremeña;Extremeña;;Extremeña;;;;;;;;;x
@@ -463,8 +465,8 @@ d_murcia;Murcia;Murcia;Murcia;;Murcia;;;;;;;;;x
 d_murcia_adj;Murcian;Murciana;Murciana;;Murciana;;;;;;;;;x
 d_najera;Nájera;Nájera;Nájera;;Nájera;;;;;;;;;x
 d_najera_adj;Najerin;Najerina;Najerina;;Najerina;;;;;;;;;x
-d_portucale;Portucale;Portucale;Portucale;;Portucale;;;;;;;;;x
-d_portucale_adj;Portucalense;Portucalense;Portucalense;;Portucalense;;;;;;;;;x
+d_portucale;Portugal;Portucale;Portucale;;Portucale;;;;;;;;;x
+d_portucale_adj;Portuguese;Portucalense;Portucalense;;Portucalense;;;;;;;;;x
 d_ribatejo;Ribatejo;Ribatejo;Ribatejo;;Ribatejo;;;;;;;;;x
 d_ribatejo_adj;Ribatejan;Ribatejana;Ribatejana;;Ribatejana;;;;;;;;;x
 d_salamanca;Salamanca;Salamanca;Salamanca;;Salamanca;;;;;;;;;x
@@ -499,8 +501,8 @@ d_bilma;Bilma;Bilma;Bilma;;Bilma;;;;;;;;;x
 d_bilma_adj;Bilman;Bilma;Bilma;;Bilma;;;;;;;;;x
 d_gasaga;Gasga;Gasga;Gasga;;Gasga;;;;;;;;;x
 d_gasaga_adj;Gasgan;Gasga;Gasga;;Gasga;;;;;;;;;x
-d_elfasher;El Fasher;El Fasher;El Fasher;;El Fasher;;;;;;;;;x
-d_elfasher_adj;El Fasher;El Fasher;El Fasher;;El Fasher;;;;;;;;;x
+d_elfasher;Al Fashir;El Fasher;El Fasher;;El Fasher;;;;;;;;;x
+d_elfasher_adj;Al Fashiran;El Fasher;El Fasher;;El Fasher;;;;;;;;;x
 d_dongola;Dongola;Dongola;Dongola;;Dongola;;;;;;;;;x
 d_dongola_adj;Dongolan;Dongola;Dongola;;Dongola;;;;;;;;;x
 d_roufra;Roufra;Roufra;Roufra;;Roufra;;;;;;;;;x
@@ -521,8 +523,8 @@ k_bilma;Bilma;Bilma;Bilma;;Bilma;;;;;;;;;x
 k_bilma_adj;Bilman;Bilma;Bilma;;Bilma;;;;;;;;;x
 k_gasaga;Gasga;Gasga;Gasga;;Gasga;;;;;;;;;x
 k_gasaga_adj;Gasgan;Gasga;Gasga;;Gasga;;;;;;;;;x
-k_elfasher;El Fasher;El Fasher;El Fasher;;El Fasher;;;;;;;;;x
-k_elfasher_adj;El Fasher;El Fasher;El Fasher;;El Fasher;;;;;;;;;x
+k_elfasher;Al Fashir;El Fasher;El Fasher;;El Fasher;;;;;;;;;x
+k_elfasher_adj;Al Fashiran;El Fasher;El Fasher;;El Fasher;;;;;;;;;x
 k_dongola;Dongola;Dongola;Dongola;;Dongola;;;;;;;;;x
 k_dongola_adj;Dongolan;Dongola;Dongola;;Dongola;;;;;;;;;x
 k_roufra;Roufra;Roufra;Roufra;;Roufra;;;;;;;;;x
@@ -553,13 +555,13 @@ d_rheinfranken;Rhenish Franconia;Rheinfranken;Rheinfranken;;Rheinfranken;;;;;;;;
 d_rheinfranken_adj;Rhenish;Rheinisch;Rheinisch;;Rheinisch;;;;;;;;;x
 #Rhos;;;;;;;;;;;;;;
 k_novgorod;Novgorod;Novgorod;Novgorod;;Novgorod;;;;;;;;;x
-k_novgorod_adj;Novgorodskiy;Novgorodskiy;Novgorodskiy;;Novgorodskiy;;;;;;;;;x
+k_novgorod_adj;Novgorodian;Novgorodskiy;Novgorodskiy;;Novgorodskiy;;;;;;;;;x
 d_novgorod;Novgorod;Novgorod;Novgorod;;Novgorod;;;;;;;;;x
-d_novgorod_adj;Novgorodskiy;Novgorodskiy;Novgorodskiy;;Novgorodskiy;;;;;;;;;x
+d_novgorod_adj;Novgorodian;Novgorodskiy;Novgorodskiy;;Novgorodskiy;;;;;;;;;x
 d_pskov;Pskov;Pskov;Pskov;;Pskov;;;;;;;;;x
-d_pskov_adj;Pskovskiy;Pskovskiy;Pskovskiy;;Pskovskiy;;;;;;;;;x
+d_pskov_adj;Pskovskian;Pskovskiy;Pskovskiy;;Pskovskiy;;;;;;;;;x
 d_russa;Rusa;Rusa;Rusa;;Rusa;;;;;;;;;x
-d_russa_adj;Rusaskiy;Rusaskiy;Rusaskiy;;Rusaskiy;;;;;;;;;x
+d_russa_adj;Rusaskian;Rusaskiy;Rusaskiy;;Rusaskiy;;;;;;;;;x
 d_beloozero;Beloozero;Beloozero;Beloozero;;Beloozero;;;;;;;;;x
 d_beloozero_adj;Beloozeroskiy;Beloozeroskiy;Beloozeroskiy;;Beloozeroskiy;;;;;;;;;x
 d_bjarmia;Bjarmia;Bjarmia;Bjarmia;;Bjarmia;;;;;;;;;x
@@ -602,11 +604,11 @@ d_toropec;Toropec;Toropec;Toropec;;Toropec;;;;;;;;;x
 d_toropec_adj;Toropecskiy;Toropecskiy;Toropecskiy;;Toropecskiy;;;;;;;;;x
 d_turov;Turov;Turov;Turov;;Turov;;;;;;;;;x
 d_turov_adj;Turovskiy;Turovskiy;Turovskiy;;Turovskiy;;;;;;;;;x
-d_novgorod-seversk;Sivershchyna;Sivershchyna;Sivershchyna;;Sivershchyna;;;;;;;;;x
-d_novgorod-seversk_adj;Sivershchynaskiy;Sivershchynaskiy;Sivershchynaskiy;;Sivershchynaskiy;;;;;;;;;x
+d_novgorod-seversk;Severia;Sivershchyna;Sivershchyna;;Sivershchyna;;;;;;;;;x
+d_novgorod-seversk_adj;Severian;Sivershchynaskiy;Sivershchynaskiy;;Sivershchynaskiy;;;;;;;;;x
 d_chernigov;Chernigov;Chernigov;Chernigov;;Chernigov;;;;;;;;;x
 d_chernigov_adj;Chernigovskiy;Chernigovskiy;Chernigovskiy;;Chernigovskiy;;;;;;;;;x
-d_novosil;Okskoye Verkhovye;Okskoye Verkhovye;Okskoye Verkhovye;;Okskoye Verkhovye;;;;;;;;;x
+d_novosil;Novosil;Okskoye Verkhovye;Okskoye Verkhovye;;Okskoye Verkhovye;;;;;;;;;x
 d_novosil_adj;Novosilskiy;Novosilskiy;Novosilskiy;;Novosilskiy;;;;;;;;;x
 k_galicia;Halych-Volyn;Halych-Volyn;Halych-Volyn;;Halych-Volyn;;;;;;;;;x
 k_galicia_adj;Halych-Volynskiy;Halych-Volynskiy;Halych-Volynskiy;;Halych-Volynskiy;;;;;;;;;x
@@ -618,10 +620,10 @@ d_belz;Belz;Belz;Belz;;Belz;;;;;;;;;x
 d_belz_adj;Belzskiy;Belzskiy;Belzskiy;;Belzskiy;;;;;;;;;x
 d_zvenyhorod;Zvenigorod;Zvenigorod;Zvenigorod;;Zvenigorod;;;;;;;;;x
 d_zvenyhorod_adj;Zvenigorodskiy;Zvenigorodskiy;Zvenigorodskiy;;Zvenigorodskiy;;;;;;;;;x
-d_podlaise;Podlyashe;Podlyashe;Podlyashe;;Podlyashe;;;;;;;;;x
+d_podlaise;Podlachia;Podlyashe;Podlyashe;;Podlyashe;;;;;;;;;x
 d_podlaise_adj;Podlyasheskiy;Podlyasheskiy;Podlyasheskiy;;Podlyasheskiy;;;;;;;;;x
 e_russia;Rhos;Rhos;Rhos;;Rhos;;;;;;;;;x
-e_russia_adj;Rhosskiy;Rhosskiy;Rhosskiy;;Rhosskiy;;;;;;;;;x
+e_russia_adj;Russian;Rhosskiy;Rhosskiy;;Rhosskiy;;;;;;;;;x
 #Mali;;;;;;;;;;;;;;
 k_ghana;Wagadu;Ouagadou;Ouagadu;;Ouagadou;;;;;;;;;x
 k_ghana_adj;Wagadian;Ouagadien;Ouagadian;;Ouagadien;;;;;;;;;x
@@ -663,14 +665,25 @@ d_tibesti_adj;Tibesti;Tibesti;Tibesti;;Tibesti;;;;;;;;;x
 d_kawar;Kawar;Kawar;Kawar;;Kawar;;;;;;;;;x
 d_kawar_adj;Kawari;Kawari;Kawari;;Kawari;;;;;;;;;x
 d_air;Air;Air;Air;;Air;;;;;;;;;x
-d_air_adj;Airi;Airi;Airi;;Airi;;;;;;;;;
+d_air_adj;Airi;Airi;Airi;;Airi;;;;;;;;;x
+d_trakai;Trakai;Airi;Airi;;Airi;;;;;;;;;x
+d_hilal;Hilal;Airi;Airi;;Airi;;;;;;;;;x
+d_massufa;Massufa;Airi;Airi;;Airi;;;;;;;;;x
+d_lamtuna;Lamtuna;Airi;Airi;;Airi;;;;;;;;;x
+d_lamta;Lamta;Airi;Airi;;Airi;;;;;;;;;x
+d_guddala;Guddala;Airi;Airi;;Airi;;;;;;;;;x
+d_targa;Targa;Airi;Airi;;Airi;;;;;;;;;x
+d_lawata;Lawata;Airi;Airi;;Airi;;;;;;;;;x
+d_soninke;Soninke;Airi;Airi;;Airi;;;;;;;;;x
+d_dugula;Dugula;Airi;Airi;;Airi;;;;;;;;;x
+d_chester;Chester;Airi;Airi;;Airi;;;;;;;;;x
 #Africa;;;;;;;;;;;;;;
-k_africa;Ifriqiya;Ifriqiya;Ifriqiya;;Ifriqiya;;;;;;;;;x
-k_africa_adj;Ifriqi;Ifriqi;Ifriqi;;Ifriqi;;;;;;;;;x
+k_africa;Africa;Ifriqiya;Ifriqiya;;Ifriqiya;;;;;;;;;x
+k_africa_adj;African;Ifriqi;Ifriqi;;Ifriqi;;;;;;;;;x
 k_mauretania;Mauretania;Mauretania;Mauretania;;Mauretania;;;;;;;;;x
 k_mauretania_adj;Mauretani;Mauretani;Mauretani;;Mauretani;;;;;;;;;x
-d_tunis;Ifriqiya;Ifriqiya;Ifriqiya;;Ifriqiya;;;;;;;;;x
-d_tunis_adj;Ifriqi;Ifriqi;Ifriqi;;Ifriqi;;;;;;;;;x
+d_tunis;Tunis;Ifriqiya;Ifriqiya;;Ifriqiya;;;;;;;;;x
+d_tunis_adj;Tunisian;Ifriqi;Ifriqi;;Ifriqi;;;;;;;;;x
 d_qamuda;Qamuda;Qamuda;Qamuda;;Qamuda;;;;;;;;;x
 d_qamuda_adj;Qamudi;Qamudi;Qamudi;;Qamudi;;;;;;;;;x
 d_tripolitania;Tripolitania;Tripolitania;Tripolitania;;Tripolitania;;;;;;;;;x
@@ -683,11 +696,11 @@ d_alger;Tahart;Tahart;Tahart;;Tahart;;;;;;;;;x
 d_alger_adj;Taharti;Taharti;Taharti;;Taharti;;;;;;;;;x
 d_tlemcen;Tilimsan;Tilimsan;Tilimsan;;Tilimsan;;;;;;;;;x
 d_tlemcen_adj;Tilimsani;Tilimsani;Tilimsani;;Tilimsani;;;;;;;;;x
-d_tangiers;Tanja;Tanja;Tanja;;Tanja;;;;;;;;;x
+d_tangiers;Tanjiers;Tanja;Tanja;;Tanja;;;;;;;;;x
 d_tangiers_adj;Tanji;Tanji;Tanji;;Tanji;;;;;;;;;x
 d_fes;Fas;Fas;Fas;;Fas;;;;;;;;;x
 d_fes_adj;Fasi;Fasi;Fasi;;Fasi;;;;;;;;;x
-d_marrakech;Marrakush;Marrakush;Marrakush;;Marrakush;;;;;;;;;x
+d_marrakech;Marrakesh;Marrakush;Marrakush;;Marrakush;;;;;;;;;x
 d_marrakech_adj;Marrakushi;Marrakushi;Marrakushi;;Marrakushi;;;;;;;;;x
 d_draa;Draa;Draa;Draa;;Draa;;;;;;;;;x
 d_draa_adj;Drai;Drai;Drai;;Drai;;;;;;;;;x
@@ -698,20 +711,20 @@ d_taghaza_adj;Taghazi;Taghazi;Taghazi;;Taghazi;;;;;;;;;x
 d_takrur;Takrur;Takrur;Takrur;;Takrur;;;;;;;;;x
 d_takrur_adj;Takrurí;Takrurí;Takrurí;;Takrurí;;;;;;;;;x
 #Egypt;;;;;;;;;;;;;;
-k_egypt;Misr;Misr;Misr;;Misr;;;;;;;;;x
-k_egypt_adj;Misri;Misri;Misri;;Misri;;;;;;;;;x
-d_alexandria;Iskandariya;Iskandariya;Iskandariya;;Iskandariya;;;;;;;;;x
-d_alexandria_adj;Iskandariyi;Iskandariyi;Iskandariyi;;Iskandariyi;;;;;;;;;x
-d_damietta;Dumiyát;Dumiyát;Dumiyát;;Dumiyát;;;;;;;;;x
-d_damietta_adj;Dumiyátí;Dumiyátí;Dumiyátí;;Dumiyátí;;;;;;;;;x
-d_cairo;Qáhira;Qáhira;Qáhira;;Qáhira;;;;;;;;;x
-d_cairo_adj;Qáhirí;Qáhirí;Qáhirí;;Qáhirí;;;;;;;;;x
-d_alWahat;Al Wahát;Al Wahát;Al Wahát;;Al Wahát;;;;;;;;;x
-d_alWahat_adj;Al Wahátí;Al Wahátí;Al Wahátí;;Al Wahátí;;;;;;;;;x
-d_aswan;Al-Sa'íd;Al-Sa'íd;Al-Sa'íd;;Al-Sa'íd;;;;;;;;;x
-d_aswan_adj;Al-Sa'ídí;Al-Sa'ídí;Al-Sa'ídí;;Al-Sa'ídí;;;;;;;;;x
-d_cyrenaica;Barqa;Barqa;Barqa;;Barqa;;;;;;;;;x
-d_cyrenaica_adj;Barqí;Barqí;Barqí;;Barqí;;;;;;;;;x
+k_egypt;Egypt;Misr;Misr;;Misr;;;;;;;;;x
+k_egypt_adj;Egyptian;Misri;Misri;;Misri;;;;;;;;;x
+d_alexandria;Alexandria;Iskandariya;Iskandariya;;Iskandariya;;;;;;;;;x
+d_alexandria_adj;Alexandrian;Iskandariyi;Iskandariyi;;Iskandariyi;;;;;;;;;x
+d_damietta;Damietta;Dumiyát;Dumiyát;;Dumiyát;;;;;;;;;x
+d_damietta_adj;Damiettan;Dumiyátí;Dumiyátí;;Dumiyátí;;;;;;;;;x
+d_cairo;Cairo;Qáhira;Qáhira;;Qáhira;;;;;;;;;x
+d_cairo_adj;Caihirí;Qáhirí;Qáhirí;;Qáhirí;;;;;;;;;x
+d_alwahat;Al Wahát;Al Wahát;Al Wahát;;Al Wahát;;;;;;;;;x
+d_alwahat_adj;Al Wahátí;Al Wahátí;Al Wahátí;;Al Wahátí;;;;;;;;;x
+d_aswan;Aswan;Al-Sa'íd;Al-Sa'íd;;Al-Sa'íd;;;;;;;;;x
+d_aswan_adj;Aswani;Al-Sa'ídí;Al-Sa'ídí;;Al-Sa'ídí;;;;;;;;;x
+d_cyrenaica;Cyrenaica;Barqa;Barqa;;Barqa;;;;;;;;;x
+d_cyrenaica_adj;Cyrenaici;Barqí;Barqí;;Barqí;;;;;;;;;x
 d_nubia;Nubia;Nubia;Nubia;;Nubia;;;;;;;;;x
 d_nubia_adj;Nibian;Nibian;Nibian;;Nibian;;;;;;;;;x
 #Finland;;;;;;;;;;;;;;
@@ -720,13 +733,13 @@ d_ingria_adj;Ingrian;Ingrian;Ingrian;;Ingrian;;;;;;;;;x
 d_viipuri;Viborg;Viborg;Viborg;;Viborg;;;;;;;;;x
 d_viipuri_adj;Viborgian;Viborgian;Viborgian;;Viborgian;;;;;;;;;x
 #France;;;;;;;;;;;;;;
-d_poitou_adj;Poitou;Poitou;Poitou;;Poitou;;;;;;;;;x
+d_poitou_adj;Poitouan;Poitou;Poitou;;Poitou;;;;;;;;;x
 #Pommern;;;;;;;;;;;;;;
 d_lubusz;Lebus;Lebus;Lebus;;Lebus;;;;;;;;;x
 d_lubusz_adj;Lubuska;Lubuska;Lubuska;;Lubuska;;;;;;;;;x
 #Baltics;;;;;;;;;;;;;;
-d_zemigalia;Zemgali;Zemgali;Zemgali;;Zemgali;;;;;;;;;x
-d_zemigalia_adj;Zemgalian;Zemgalian;Zemgalian;;Zemgalian;;;;;;;;;x
+d_zemigalia;Semigallia;Zemgali;Zemgali;;Zemgali;;;;;;;;;x
+d_zemigalia_adj;Semigallians;Zemgalian;Zemgalian;;Zemgalian;;;;;;;;;x
 d_osel_wiek;Ösel–Wiek;Ösel–Wiek;Ösel–Wiek;;Ösel–Wiek;;;;;;;;;x
 d_osel_wiek_adj;Saare-Läänian;Saare-Läänian;Saare-Läänian;;Saare-Läänian;;;;;;;;;x
 d_dorpat;Ugandi;Ugandi;Ugandi;;Ugandi;;;;;;;;;x
@@ -799,7 +812,7 @@ d_hereford_adj_cumbric;Dobunnian;Dobunnian;Dobunnian;;Dobunnian;;;;;;;;;x
 d_hereford_adj_welsh;Dobunnian;Dobunnian;Dobunnian;;Dobunnian;;;;;;;;;x
 d_hereford_adj_breton;Dobunnian;Dobunnian;Dobunnian;;Dobunnian;;;;;;;;;x
 d_hereford_adj_cornish;Dobunnian;Dobunnian;Dobunnian;;Dobunnian;;;;;;;;;x
-d_channel_islands;Îles d'la Manche;Îles d'la Manche;Îles d'la Manche;;Îles d'la Manche;;;;;;;;;x
+d_channel_islands;Channel Islands;Îles d'la Manche;Îles d'la Manche;;Îles d'la Manche;;;;;;;;;x
 d_channel_islands_adj;Îles d'la Manche;Îles d'la Manche;Îles d'la Manche;;Îles d'la Manche;;;;;;;;;x
 d_channel_islands_adj_irish;Oileáin na Bhriotáin;Oileáin na Bhriotáin;Oileáin na Bhriotáin;;Oileáin na Bhriotáin;;;;;;;;;x
 d_channel_islands_adj_scottish;Oileáin na Bhriotáin;Oileáin na Bhriotáin;Oileáin na Bhriotáin;;Oileáin na Bhriotáin;;;;;;;;;x
@@ -984,27 +997,27 @@ d_thomond_adj;Thomondian;Thomonde;Thomonder;;Thomondiana;;;;;;;;;x
 d_ossory;Ossory;Ossory;Ossory;;Ossory;;;;;;;;;x
 d_ossory_adj;Ossoryan;Ossoryane;Ossoryer;;Ossoriana;;;;;;;;;x
 #####;;;;;;;;;;;;;;
-d_istria;Istra;Istra;Istra;;Istra;;;;;;;;;x
+d_istria;Istria;Istra;Istra;;Istra;;;;;;;;;x
 d_istria_adj;Istrian;Istrian;Istrian;;Istrian;;;;;;;;;x
 d_istria_adj_german;Istrische;Istrische;Istrische;;Istrische;;;;;;;;;x
 #####;;;;;;;;;;;;;;
-d_trondelag;Þrœndalóg;Þrœndalóg;Þrœndalóg;;Þrœndalóg;;;;;;;;;x
-d_trondelag_adj;Þróndr;Þróndr;Þróndr;;Þróndr;;;;;;;;;x
-d_vestlandet;Biorgvin;Biorgvin;Biorgvin;;Biorgvin;;;;;;;;;x
+d_trondelag;Trondelag;Þrœndalóg;Þrœndalóg;;Þrœndalóg;;;;;;;;;x
+d_trondelag_adj;Tróndr;Þróndr;Þróndr;;Þróndr;;;;;;;;;x
+d_vestlandet;Björgvin;Biorgvin;Biorgvin;;Biorgvin;;;;;;;;;x
 d_vestlandet_adj;Horðr;Horðr;Horðr;;Horðr;;;;;;;;;x
-d_jamtland;Jamtaland;Jamtaland;Jamtaland;;Jamtaland;;;;;;;;;x
-d_jamtland_adj;Jamtalandr;Jamtalandr;Jamtalandr;;Jamtalandr;;;;;;;;;x
-d_opplandene;Upplondum;Upplondum;Upplondum;;Upplondum;;;;;;;;;x
-d_opplandene_adj;Upplondr;Upplondr;Upplondr;;Upplondr;;;;;;;;;x
-d_more;Mœri;Mœri;Mœri;;Mœri;;;;;;;;;x
-d_more_adj;Mœrir;Mœrir;Mœrir;;Mœrir;;;;;;;;;x
+d_jamtland;Jamtland;Jamtaland;Jamtaland;;Jamtaland;;;;;;;;;x
+d_jamtland_adj;Jamtlandr;Jamtalandr;Jamtalandr;;Jamtalandr;;;;;;;;;x
+d_opplandene;Uppland;Upplondum;Upplondum;;Upplondum;;;;;;;;;x
+d_opplandene_adj;Upplandr;Upplondr;Upplondr;;Upplondr;;;;;;;;;x
+d_more;More;Mœri;Mœri;;Mœri;;;;;;;;;x
+d_more_adj;Morir;Mœrir;Mœrir;;Mœrir;;;;;;;;;x
 d_halogaland;Hálogaland;Hálogaland;Hálogaland;;Hálogaland;;;;;;;;;x
 d_halogaland_adj;Hálogalandr;Hálogalandr;Hálogalandr;;Hálogalandr;;;;;;;;;x
 #;;;;;;;;;;;;;;
 d_faereyar;Faereyar;Faereyar;Faereyar;;Faereyar;;;;;;;;;x
 d_faereyar_adj;Faereyar;Faereyar;Faereyar;;Faereyar;;;;;;;;;x
 ####;;;;;;;;;;;;;;
-d_bornholm;Burghændæholm;Burghændæholm;Burghændæholm;;Burghændæholm;;;;;;;;;x
+d_bornholm;Bornholm;Burghændæholm;Burghændæholm;;Burghændæholm;;;;;;;;;x
 d_bornholm_adj;Burghændæholmr;Burghændæholmr;Burghændæholmr;;Burghændæholmr;;;;;;;;;x
 d_bornholm_adj_norse;Borgundarhólmir;Borgundarhólmir;Borgundarhólmir;;Borgundarhólmir;;;;;;;;;x
 d_bornholm_adj_norwegian;Borgundarhólmir;Borgundarhólmir;Borgundarhólmir;;Borgundarhólmir;;;;;;;;;x
@@ -1018,7 +1031,7 @@ k_denmark_adj_gothic;Danskr;Danskr;Danskr;;Danskr;;;;;;;;;x
 #;;;;;;;;;;;;;;
 ##########;;;;;;;;;;;;;;
 #Mann;;;;;;;;;;;;;;
-k_ellan_vannin;Man;Man;Man;;Man;;;;;;;;;x
+k_ellan_vannin;Mann;Man;Man;;Man;;;;;;;;;x
 k_ellan_vannin_adj;Mannish;Mannish;Mannish;;Mannish;;;;;;;;;x
 k_ellan_vannin_adj_norwegian;Mönr;Mönr;Mönr;;Mönr;;;;;;;;;x
 k_ellan_vannin_adj_icelandic;Mönr;Mönr;Mönr;;Mönr;;;;;;;;;x
@@ -1034,7 +1047,7 @@ k_ellan_vannin_adj_cornish;Manav;Manav;Manav;;Manav;;;;;;;;;x
 k_ellan_vannin_adj_scottish;Vannin;Vannin;Vannin;;Vannin;;;;;;;;;x
 k_ellan_vannin_adj_breton;Manav;Manav;Manav;;Manav;;;;;;;;;x
 #;;;;;;;;;;;;;;
-d_ellan_vannin;Man;Man;Man;;Man;;;;;;;;;
+d_ellan_vannin;Mann;Man;Man;;Man;;;;;;;;;
 d_ellan_vannin_adj;Mannish;Mannish;Mannish;;Mannish;;;;;;;;;x
 d_ellan_vannin_adj_norwegian;Mönr;Mönr;Mönr;;Mönr;;;;;;;;;x
 d_ellan_vannin_adj_icelandic;Mönr;Mönr;Mönr;;Mönr;;;;;;;;;x
@@ -1098,7 +1111,7 @@ d_orkney_adj_cornish;Arcaibhish;Arcaibhish;Arcaibhish;;Arcaibhish;;;;;;;;;x
 d_orkney_adj_scottish;Arcaibhish;Arcaibhish;Arcaibhish;;Arcaibhish;;;;;;;;;x
 d_orkney_adj_breton;Arcaibhish;Arcaibhish;Arcaibhish;;Arcaibhish;;;;;;;;;x
 ######;;;;;;;;;;;;;;
-k_scotland;Alba;Alba;Alba;;Alba;;;;;;;;;x
+k_scotland;Scotland;Alba;Alba;;Alba;;;;;;;;;x
 k_scotland_adj_norwegian;Skozkr;Skozkr;Skozkr;;Skozkr;;;;;;;;;x
 k_scotland_adj_icelandic;Skozkr;Skozkr;Skozkr;;Skozkr;;;;;;;;;x
 k_scotland_adj_norsegaelic;Skozkr;Skozkr;Skozkr;;Skozkr;;;;;;;;;x
@@ -1249,8 +1262,8 @@ d_elatrun_adj;Atrúní;Atrúní;Atrúní;;Atrúní;;;;;;;;;x
 k_darfur;Darfur;Darfur;Darfur;;Darfur;;;;;;;;;x
 k_darfur_adj;Darfurí;Darfurí;Darfurí;;Darfurí;;;;;;;;;x
 #;;;;;;;;;;;;;;
-d_sieradzko-leczyckie;Sieradz-Leczyca;Sieradz-Leczyca;Sieradz-Leczyca;;Sieradz-Leczyca;;;;;;;;;x
-d_sieradzko-leczyckie_adj;Sieradzko;Sieradzko;Sieradzko;;Sieradzko;;;;;;;;;x
+d_sieradzko-leczyckie;Sieradz;Sieradz-Leczyca;Sieradz-Leczyca;;Sieradz-Leczyca;;;;;;;;;x
+d_sieradzko-leczyckie_adj;Sieradzkoan;Sieradzko;Sieradzko;;Sieradzko;;;;;;;;;x
 d_azben;Azben;Azben;Azben;;Azben;;;;;;;;;x
 d_azben_adj;Azben;Azben;Azben;;Azben;;;;;;;;;x
 d_takarkart;Takarkart;Takarkart;Takarkart;;Takarkart;;;;;;;;;x
