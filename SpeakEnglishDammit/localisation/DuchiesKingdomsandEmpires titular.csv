@@ -85,8 +85,19 @@ d_esthonia;Estonians;Eesti;Eesti;;Eesti;;;;;;;;;x
 d_esthonia_adj;Estonian;Eesti;Eesti;;Eesti;;;;;;;;;x
 d_narbonne;Narbonne;Narbona;Narbona;;Narbona;;;;;;;;;x
 d_narbonne_adj;Narbonnese;Narbona;Narbona;;Narbona;;;;;;;;;x
+b_friis;Frisians;Friis;Friis;;Friis;;;;;;;;;x
+b_vadskaer;Vadskær;Vadskær;Vadskær;;Vadskær;;;;;;;;;x
+b_ukena;Ukena;Ukena;Ukena;;Ukena;;;;;;;;;x
+b_fan_knyphausen;Fan Knyphausen;fan Knyphausen;fan Knyphausen;;fan Knyphausen;;;;;;;;;x
+b_tjarksena;Tjarksena;Tjarksena;Tjarksena;;Tjarksena;;;;;;;;;x
 d_nordfrisland;Utlande;Utlande;Utlande;;Utlande;;;;;;;;;x
 d_nordfrisland_adj;Utlandish;Utlandish;Utlandish;;Utlandish;;;;;;;;;x
+b_limbek;Limbek;Limbekburgr;Limbekburgr;;Limbekburgr;;;;;;;;;x
+b_wittenborg;Wittenborg;Wittenborg;Wittenborg;;Wittenborg;;;;;;;;;x
+b_warendorp;Warendorp;Warendorp;Warendorp;;Warendorp;;;;;;;;;x
+b_pat_luneburg;Lüneburg;Lüneburg;Lüneburg;;Lüneburg;;;;;;;;;x
+b_vorrade;Vorrade;Vorrade;Vorrade;;Vorrade;;;;;;;;;x
+b_bardewik;Bardewik;Bardewik;Bardewik;;Bardewik;;;;;;;;;x
 d_ugandians;Ugandians;Ugandians;Ugandians;;Ugandians;;;;;;;;;x
 d_ugandians_adj;Ugandian;Ugandian;Ugandian;;Ugandian;;;;;;;;;x
 d_oseelians;Oselians;Oselians;Oselians;;Oselians;;;;;;;;;x
@@ -149,3 +160,51 @@ k_geats;Geatland;Götaland;Götaland;;Götaland;;;;;;;;;x
 k_geats_adj;Geatish;Geatish;Geatish;;Geatish;;;;;;;;;x
 e_kaleva;Kalevia;Kalevala;Kalevala;;Kalevala;;;;;;;;;x
 e_kaleva_adj;Kalevian;Kalevalan;Kalevalan;;Kalevalan;;;;;;;;;x
+d_lamtuna;Lamtúna;Lamtúna;Lamtúna;;Lamtúna;;;;;;;;;x
+d_lamtuna_adj;Lamtúní;Lamtúní;Lamtúní;;Lamtúní;;;;;;;;;x
+d_lamta;Lamta;Lamta;Lamta;;Lamta;;;;;;;;;x
+d_lamta_adj;Lamtí;Lamtí;Lamtí;;Lamtí;;;;;;;;;x
+d_zaghawa;Zagháwa;Zagháwa;Zagháwa;;Zagháwa;;;;;;;;;x
+d_zaghawa_adj;Zagháwí;Zagháwí;Zagháwí;;Zagháwí;;;;;;;;;x
+d_guddala;Guddála;Guddála;Guddála;;Guddála;;;;;;;;;x
+d_guddala_adj;Guddálí;Guddálí;Guddálí;;Guddálí;;;;;;;;;x
+d_targa;Targa;Targa;Targa;;Targa;;;;;;;;;x
+d_targa_adj;Targí;Targí;Targí;;Targí;;;;;;;;;x
+d_lawata;Lawata;Lawata;Lawata;;Lawata;;;;;;;;;x
+d_lawata_adj;Lawatí;Lawatí;Lawatí;;Lawatí;;;;;;;;;x
+d_soninke;Soninke;Soninke;Soninke;;Soninke;;;;;;;;;x
+d_soninke_adj;Soninke;Soninke;Soninke;;Soninke;;;;;;;;;x
+d_duguwa;Duguwa;Duguwa;Duguwa;;Duguwa;;;;;;;;;x
+d_duguwa_adj;Duguwí;Duguwí;Duguwí;;Duguwí;;;;;;;;;x
+d_blemmyes;Béja;Béja;Béja;;Béja;;;;;;;;;x
+d_blemmyes_adj;Béjí;Béjí;Béjí;;Béjí;;;;;;;;;x
+k_makuria;Makuria;Makuria;Makuria;;Makuria;;;;;;;;;x
+k_makuria_adj;Makurian;Makurian;Makurian;;Makurian;;;;;;;;;x
+k_alodia;Alodia;Alodia;Alodia;;Alodia;;;;;;;;;x
+k_alodia_adj;Alodian;Alodian;Alodian;;Alodian;;;;;;;;;x
+k_moravia;Velká Morava;Velká Morava;Velká Morava;;Velká Morava;;;;;;;;;x
+k_moravia_adj;Velkomoravský;Velkomoravský;Velkomoravský;;Velkomoravský;;;;;;;;;x
+k_shiite;Shia;Shia;Shia;;Shia;;;;;;;;;x
+k_shiite_adj;Shiite;Shiite;Shiite;;Shiite;;;;;;;;;x
+k_sunni;Sunni;Sunni;Sunni;;Sunni;;;;;;;;;x
+k_sunni_adj;Sunni;Sunni;Sunni;;Sunni;;;;;;;;;x
+k_tiaret;Tiáret;Tiáret;Tiáret;;Tiáret;;;;;;;;;x
+k_tiaret_adj;Tiáretí;Tiáretí;Tiáretí;;Tiáretí;;;;;;;;;x
+d_musab;Mus'ab;Mus'ab;Mus'ab;;Mus'ab;;;;;;;;;x
+d_musab_adj;Mus'abí;Mus'abí;Mus'abí;;Mus'abí;;;;;;;;;x
+d_gazzula;Gazzúla;Gazzúla;Gazzúla;;Gazzúla;;;;;;;;;x
+d_gazzula_adj;Gazzúlí;Gazzúlí;Gazzúlí;;Gazzúlí;;;;;;;;;x
+WEST_FRANCIA;West Francia;Francia Occidentalis;Francia Occidentalis;;Francia Occidentalis;;;;;;;;;x
+WEST_FRANCIA_ADJ;Western Frankish;Francia Occidentalis;Francia Occidentalis;;Francia Occidentalis;;;;;;;;;x
+EAST_FRANCIA;East Francia;Francia Orientalis;Francia Orientalis;;Francia Orientalis;;;;;;;;;x
+EAST_FRANCIA_ADJ;Eastern Frankish;Francia Orientalis;Francia Orientalis;;Francia Orientalis;;;;;;;;;x
+d_azben;Azben;Azben;Azben;;Azben;;;;;;;;;x
+d_azben_adj;Azben;Azben;Azben;;Azben;;;;;;;;;x
+d_takarkart;Takarkart;Takarkart;Takarkart;;Takarkart;;;;;;;;;x
+d_takarkart_adj;Takarkartí;Takarkartí;Takarkartí;;Takarkartí;;;;;;;;;x
+d_azger;Azger;Azger;Azger;;Azger;;;;;;;;;x
+d_azger_adj;Azgerí;Azgerí;Azgerí;;Azgerí;;;;;;;;;x
+d_tanmak;Tanmak;Tanmak;Tanmak;;Tanmak;;;;;;;;;x
+d_tanmak_adj;Tanmaki;Tanmaki;Tanmaki;;Tanmaki;;;;;;;;;x
+d_mazata;Mazáta;Mazáta;Mazáta;;Mazáta;;;;;;;;;x
+d_mazata_adj;Mazátí;Mazátí;Mazátí;;Mazátí;;;;;;;;;x

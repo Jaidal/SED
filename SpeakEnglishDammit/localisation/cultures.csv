@@ -16,7 +16,7 @@ ashkenazi;Ashkenazi;Ashkenazi;Ashkenazi;;Ashkenazi;;;;;;;;;x
 crusader_culture;Levantine;Levantine;Levantine;;Levantine;;;;;;;;;x
 sephardic;Sephardi;Sephardi;Sephardi;;Sephardi;;;;;;;;;x
 irish;Gaelic;Gaelic;Gaelic;;Gaelic;;;;;;;;;x
-scottish;Scots;Scots;Scots;;Scots;;;;;;;;;x
+scottish;Scottish;Scots;Scots;;Scots;;;;;;;;;x
 anglonorse;Anglo Norse;Anglo Norse;Anglo Norse;;Anglo Norse;;;;;;;;;x
 norsegaelic;Norse Gaelic;Norse Gaelic;Norse Gaelic;;Norse Gaelic;;;;;;;;;x
 judaic;Judaic;Judaic;Judaic;;Judaic;;;;;;;;;x
@@ -67,8 +67,8 @@ tuareg;Tuareg;Tuareg;Tuareg;;Tuareg;;;;;;;;;x
 gascon;Gascon;Gascon;Gascon;;Gascon;;;;;;;;;x
 icelandic;Icelandic;Icelandic;Icelandic;;Icelandic;;;;;;;;;x
 bedouin_arabic;Bedouin Arabic;Bedouin Arabic;Bedouin Arabic;;Bedouin Arabic;;;;;;;;;x
-egyptian_arabic;Misri Arabic;Misri Arabic;Misri Arabic;;Misri Arabic;;;;;;;;;x
-levantine_arabic;Mashriqi Arabic;Mashriqi Arabic;Mashriqi Arabic;;Mashriqi Arabic;;;;;;;;;x
+egyptian_arabic;Egyptian;Misri Arabic;Misri Arabic;;Misri Arabic;;;;;;;;;x
+levantine_arabic;Levantine;Mashriqi Arabic;Mashriqi Arabic;;Mashriqi Arabic;;;;;;;;;x
 turkish;Turkish;Turkish;Turkish;;Turkish;;;;;;;;;x
 komi;Komi;Komi;Komi;;Komi;;;;;;;;;x
 mongol;Mongol;Mongol;Mongol;;Mongol;;;;;;;;;x
@@ -83,6 +83,10 @@ lutici;Liutician;Liutician;Liutician;;Liutician;;;;;;;;;x
 galician;Galician;Galician;Galician;;Galician;;;;;;;;;x
 maghreb_arabic;Maghreb Arabic;Maghreb Arabic;Maghreb Arabic;;Maghreb Arabic;;;;;;;;;x
 samoyed;Bjarmian;Bjarmian;Bjarmian;;Bjarmian;;;;;;;;;x
+karelian;Karelian;Karjalainen;Karjalainen;;Karjalainen;;;;;;;;;x
+vepsian;Vepsian;Vepsalainen;Vepsalainen;;Vepsalainen;;;;;;;;;x
+mari;Mari;Mejralainen;Mejralainen;;Mejralainen;;;;;;;;;x
+ingrian;Ingrian;Inkerilainen;Inkerilainen;;Inkerilainen;;;;;;;;;x
 ########################################;;;;;;;;;;;;;;
 #Groups;;;;;;;;;;;;;;
 ########################################;;;;;;;;;;;;;;
@@ -100,7 +104,7 @@ soninke;Soninke;Soninke;Soninke;;Soninke;;;;;;;;;x
 wolof;Wolof;Wolof;Wolof;;Wolof;;;;;;;;;x
 nubian;Nubian;Nubian;Nubian;;Nubian;;;;;;;;;x
 songhai;Songhai;Songhai;Songhai;;Songhai;;;;;;;;;x
-tagelmust;Veiled Sanhája;Veiled Sanhája;Veiled Sanhája;;Veiled Sanhája;;;;;;;;;x
+tagelmust;Tagelmust;Veiled Sanhája;Veiled Sanhája;;Veiled Sanhája;;;;;;;;;x
 hausa;Hausa;Hausa;Hausa;;Hausa;;;;;;;;;x
 kanuri;Kanuri;Kanuri;Kanuri;;Kanuri;;;;;;;;;x
 zaghawa;Zaghawa;Zaghawa;Zaghawa;;Zaghawa;;;;;;;;;x

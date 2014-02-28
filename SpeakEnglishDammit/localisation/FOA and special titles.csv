@@ -14,9 +14,9 @@ DUKEPRINCE_OF;Principality of;Principality of;Principality of;;Principality of;;
 VOIVODE;Voivode;Voivode;Voivode;;Voivode;;;;;;;;x;
 VOIVODE_OF;Voivodeship of;Voivodeship of;Voivodeship of;;Voivodeship of;;;;;;;;x;
 PALATINE;Count Palatine;Count Palatine;Count Palatine;;Count Palatine;;;;;;;;x;
+PALATINEA;Countess Palatine;Pfalzgräfin;Pfalzgräfin;;Pfalzgräfin;;;;;;;;x;
 PALATINE_FOA;your right honourableness;your right honourableness;your right honourableness;;your right honourableness;;;;;;;;x;
 PALATINE_OF;Palatinate of the Rhine;Palatinate of the Rhine;Palatinate of the Rhine;;Palatinate of the Rhine;;;;;;;;x;
-PALATINEA;Countess Palatine;Countess Palatine;Countess Palatine;;Countess Palatine;;;;;;;;x;
 ARCHDUKE;Archduke;Archduke;Archduke;;Archduke;;;;;;;;x;
 ARCHDUKE_OF;Archduchy of;Archduchy of;Archduchy of;;Archduchy of;;;;;;;;x;
 GRANDDUKE;Grand Duke;Didžioji Kunigaikštyste;Didžioji Kunigaikštyste;;Didžioji Kunigaikštyste;;;;;;;;x;
@@ -108,9 +108,9 @@ BURGRAVINE;Burgravine;Burggräfin;Burggräfin;;Burggräfin;;;;;;;;;x
 BURGRAVE_FOA;your highness;your highness;your highness;;your highness;;;;;;;;;x
 BURGRAVE_OF;Burgraviate of;Burggrafschaft;Burggrafschaft;;Burggrafschaft;;;;;;;;;x
 CPALATIN;Count Palatine;Comte Palatin;Comte Palatin;;Comte Palatin;;;;;;;;;x
+CEPALATIN;Countess Palatine;Comtesse Palatin;Comtesse Palatin;;Comtesse Palatin;;;;;;;;;x
 CPALATIN_FOA;your right honourableness;your right honourableness;your right honourableness;;your right honourableness;;;;;;;;;x
-CPALATIN_OF;Free County of;Palatinat de;Palatinat de;;Palatinat de;;;;;;;;;x
-CEPALATIN;Countess Palatine;Countess Palatine;Countess Palatine;;Countess Palatine;;;;;;;;;x
+CPALATIN_OF;Palatinate of;Palatinat de;Palatinat de;;Palatinat de;;;;;;;;;x
 GIUDICATO;Giudice;Giudice;Giudice;;Giudice;;;;;;;;;x
 GIUDICATO _FOA;your highness;your highness;your highness;;your highness;;;;;;;;;x
 GIUDICATO_OF;Giudice of;Giudice of;Giudice of;;Giudice of;;;;;;;;;x
@@ -126,6 +126,11 @@ LANDGRAVE;Landgrave;Landgraf;Landgraf;;Landgraf;;;;;;;;;x
 LANDGRAVINE;Landgravine;Landgräfin;Landgräfin;;Landgräfin;;;;;;;;;x
 LANDGRAVE_OF;Landgraviate of;Landgrafschaft;Landgrafschaft;;Landgrafschaft;;;;;;;;;x
 LANDGRAVE_FOA;your grace;your grace;your grace;;your grace;;;;;;;;;x
+HANSE;Hochmeister;Hochmeister;Hochmeister;;Hochmeister;;;;;;;;;x
+HANSE_female;Hochmeisterin;Hochmeisterin;Hochmeisterin;;Hochmeisterin;;;;;;;;;x
+HANSE_title_ruler_consort_female;Our Lady;Our Lady;Our Lady;;Our Lady;;;;;;;;;x
+HANSE_FOA;Your Grace;Votre GrãÄe;Euer Gnaden;;Su Gracia;;;;;;;;;x
+HANSE_OF;Hochmeister of;Hochmeister of;Hochmeister of;;Hochmeister of;;;;;;;;;x
 Grand_duke;Grand Duke;Grand Duke;Grand Duke;;Grand Duke;;;;;;;;;x
 Grand_duke_foa;Grand Duke;Grand Duke;Grand Duke;;Grand Duke;;;;;;;;;x
 Grand_duchy_of;Grand Duchy of;Grand Duchy of;Grand Duchy of;;Grand Duchy of;;;;;;;;;x

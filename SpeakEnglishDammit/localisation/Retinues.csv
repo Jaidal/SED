@@ -6,29 +6,29 @@ RETTYPE_CUL_BOSNIAN;Vlastela;Vlastela;Vlastela;;Vlastela;;;;;;;;;x
 RETTYPE_CUL_SERBIAN;Vlastela;Vlastela;Vlastela;;Vlastela;;;;;;;;;x
 RETTYPE_CUL_BULGARIAN;Bolqr;Bolqr;Bolqr;;Bolqr;;;;;;;;;x
 RETTYPE_CUL_BOHEMIAN;Rytír;Rytír;Rytír;;Rytír;;;;;;;;;x
-RETTYPE_CUL_ROMANIAN;Druzhýna;Druzhýna;Druzhýna;;Druzhýna;;;;;;;;;x
+RETTYPE_CUL_ROMANIAN;Calarasi;Druzhýna;Druzhýna;;Druzhýna;;;;;;;;;x
 RETTYPE_CUL_HUNG;Bandérium;Bandérium;Bandérium;;Bandérium;;;;;;;;;x
 RETTYPE_CUL_FINNO_UGRIC;Soturi Lempo;Soturi Lempo;Soturi Lempo;;Soturi Lempo;;;;;;;;;x
 RETTYPE_CUL_BALT;Karavirs Perkons;Karavirs Perkons;Karavirs Perkons;;Karavirs Perkons;;;;;;;;;x
 RETTYPE_CUL_NORMAN;Chevalier;Chevalier;Chevalier;;Chevalier;;;;;;;;;x
 RETTYPE_CUL_SOUTH_SLA;Gusar;Gusar;Gusar;;Gusar;;;;;;;;;x
-RETTYPE_CUL_BRETTON;Chevalier;Chevalier;Chevalier;;Chevalier;;;;;;;;;x
+RETTYPE_CUL_BRETTON;Marc'heg;Chevalier;Chevalier;;Chevalier;;;;;;;;;x
 RETTYPE_CUL_SCOT;Schiltron;Schiltron;Schiltron;;Schiltron;;;;;;;;;x
 RETTYPE_CUL_IRISH;Gallóglach;Gallóglach;Gallóglach;;Gallóglach;;;;;;;;;x
 RETTYPE_CUL_NORSEGAELIC;Gallóglach;Gallóglach;Gallóglach;;Gallóglach;;;;;;;;;x
-RETTYPE_CUL_CORNISH;Longbow;Longbow;Longbow;;Longbow;;;;;;;;;x
+RETTYPE_CUL_CORNISH;Marc'heg;Longbow;Longbow;;Longbow;;;;;;;;;x
 RETTYPE_CUL_WELSH;Longbow;Longbow;Longbow;;Longbow;;;;;;;;;x
 RETTYPE_CUL_ENG;Longbow;Longbow;Longbow;;Longbow;;;;;;;;;x
 RETTYPE_CUL_FRISIAN;Frisian Militia;Dutch Militia;Dutch Militia;;Dutch Militia;;;;;;;;;x
-RETTYPE_CUL_ANGLONORSE;Houscarl;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
-RETTYPE_CUL_SAXON;Houscarl;Huscarl;Huscarl;;Huscarl;;;;;;;;;x
-RETTYPE_CUL_NORWEGIAN;Houscarl;Heiðþegi;Heiðþegi;;Heiðþegi;;;;;;;;;x
-RETTYPE_CUL_DANISH;Houscarl;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
-RETTYPE_CUL_GOTHIC;Houscarl;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
-RETTYPE_CUL_SWEDISH;Houscarl;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
+RETTYPE_CUL_ANGLONORSE;Huscarl;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
+RETTYPE_CUL_SAXON;Huscarl;Huscarl;Huscarl;;Huscarl;;;;;;;;;x
+RETTYPE_CUL_NORWEGIAN;Huscarl;Heiðþegi;Heiðþegi;;Heiðþegi;;;;;;;;;x
+RETTYPE_CUL_DANISH;Huscarl;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
+RETTYPE_CUL_GOTHIC;Huscarl;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
+RETTYPE_CUL_SWEDISH;Huscarl;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
 RETTYPE_CUL_DUTCH;Dutch Militia;Dutch Militia;Dutch Militia;;Dutch Militia;;;;;;;;;x
 RETTYPE_CUL_GERMAN;Ritter;Ritter;Ritter;;Ritter;;;;;;;;;x
-RETTYPE_CUL_RUS;Calarasi;Calarasi;Calarasi;;Calarasi;;;;;;;;;x
+RETTYPE_CUL_RUS;Druzhýna;Calarasi;Calarasi;;Calarasi;;;;;;;;;x
 RETTYPE_CUL_POLISH;Druzyna;Druzyna;Druzyna;;Druzyna;;;;;;;;;x
 RETTYPE_CUL_LITHUANIAN;Perkuno Karys;Perkuno Karys;Perkuno Karys;;Perkuno Karys;;;;;;;;;x
 RETTYPE_CUL_E_AFR;Zãbãnnya;Zãbãnnya;Zãbãnnya;;Zãbãnnya;;;;;;;;;x
@@ -126,3 +126,6 @@ RETTYPE_CUL_NORSE;Heimþegi;Heimþegi;Heimþegi;;Heimþegi;;;;;;;;;x
 #Malev, pagan estonian raiding unit in singular;;;;;;;;;;;;;;
 #Praetoriani, Pretorian guard probably in pluralis. I suck at Latin so singular form will have to wait.;;;;;;;;;;;;;;
 "# Sclavinia,  comes of ""Slavs"", but was also used bythe ERE as the term for Avar landed/noble soldiers. Singular. Note to self, I think there was a particular Avar heavily scale armored cavalry unit, remeber to check what that one was called, somthing with dragons.";;;;;;;;;;;;;;
+Arimanni, Longobardich feudalistic cavalry. Originaly reserved for the nobiltiy(5-8th centuryish) but eventually reduced to free peasents in their required services as men at arms(9-12th century);;;;;;;;;;;;;;
+#Arsenalotto, venetians arsenal employees, also served as honour guard and fire brigade.;;;;;;;;;;;;;;
+#C?l?rasi, Moldavian light skrimish cavalry;;;;;;;;;;;;;;
